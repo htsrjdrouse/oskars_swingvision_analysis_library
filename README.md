@@ -10,7 +10,7 @@ Then you dump this script on a webserver that runs PHP, this php code converts t
 
 An example of this code is posted at: http://boxa.labbot3dsystems.com/tennisdata/oskars.SwingVision.shot.datamodel.php
 
-If you like this show some love and use our referral code if you still haven't up for SwingVision:
+If you like this show some love and use our referral code if you still haven't signed up for SwingVision:
 https://swing.tennis/r/ee4778c442f60bcf
 
 Here is a link to the match: https://swing.tennis/matches/sw2-Nwjhejk
