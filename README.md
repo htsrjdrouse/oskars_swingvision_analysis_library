@@ -8,7 +8,7 @@ First you need to convert the .xlsx file into csv files you do it by running the
 <code>xlsx2csv -s 2 SwingVision-Ball_Machine_Practice-2023-02-12_at_22.46.02.xlsx shots_file.csv</code>
 Then you dump this script on a webserver that runs PHP, this php code converts the csv into a JSON type format and these functions are used to do the number crunching which is now easy enough to graph it up.
 
-An example of this code is posted at: http://boxa.labbot3dsystems.com/tennisdata/data.org.php
+An example of this code is posted at: http://boxa.labbot3dsystems.com/tennisdata/oskars.SwingVision.shot.datamodel.php
 
 If you like this show some love and use our referral code if you still haven't up for SwingVision:
 https://swing.tennis/r/ee4778c442f60bcf
