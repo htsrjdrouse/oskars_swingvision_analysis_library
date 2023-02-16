@@ -1,0 +1,773 @@
+Player,Shot,Type,Stroke,Spin,Speed (MPH),Point,Game,Set,Bounce Depth,Bounce Zone,Bounce Side,Bounce (x),Bounce (y),Hit Depth,Hit Zone,Hit Side,Hit (x),Hit (y),Hit (z),Direction,Result,Favorited,Start Time,Video Time
+Me,0,none,Feed,Flat,24.079971,1,0,0,service_box,ad,far,0.741657,16.587626,service_box,deuce,near,0.510002,6.595609,0.794269,---,In,false,22:51:14,311.480011
+Ball Machine,0,none,Forehand,Topspin,29.766834,0,0,0,service_box,deuce,near,0.969585,7.784387,no_mans_land,ad,far,1.28334,20.291168,1.061519,down the line,In,false,22:51:15,312.899994
+Me,2,none,Backhand,Topspin,29.041376,1,0,0,no_mans_land,ad,far,1.192581,19.330158,no_mans_land,deuce,near,0.633219,3.134547,1.076516,down the line,In,false,22:51:17,314.579987
+Ball Machine,2,none,FH Volley,Flat,20.784662,0,0,0,service_box,deuce,near,1.341415,5.709524,no_mans_land,ad,far,1.137276,19.788885,0.382421,down the line,In,false,22:51:18,316.079987
+Me,4,none,Backhand,Topspin,37.314175,1,0,0,service_box,ad,far,0.003503,14.143911,no_mans_land,deuce,near,1.308055,1.253266,1.333546,down the line,In,false,22:51:20,317.970001
+Ball Machine,4,none,Backhand,Topspin,31.267498,0,0,0,service_box,deuce,near,0.862578,7.646482,no_mans_land,ad,far,0.026151,20.133305,1.411232,inside in,In,false,22:51:22,319.5
+Me,6,none,Backhand,Topspin,30.502483,1,0,0,service_box,ad,far,0.228034,16.386478,no_mans_land,deuce,near,0.616506,1.990549,0.952868,down the line,In,false,22:51:23,321.179993
+Ball Machine,6,none,BH Volley,Flat,19.918634,0,0,0,service_box,deuce,near,1.43554,5.771708,service_box,ad,far,0.231286,16.721249,0.699427,down the line,In,false,22:51:25,322.679993
+Me,8,none,Backhand,Topspin,34.535744,1,0,0,service_box,ad,far,0.443682,16.398186,no_mans_land,deuce,near,1.206765,3.862996,1.057127,down the line,In,false,22:51:27,324.529999
+Ball Machine,8,none,Backhand,Topspin,27.737709,0,0,0,service_box,deuce,near,0.70804,8.688132,no_mans_land,deuce,far,-0.13985,21.130415,1.016751,cross court,In,false,22:51:28,325.670013
+Me,10,none,Backhand,Topspin,29.986259,1,0,0,service_box,deuce,far,-1.870523,18.247248,service_box,deuce,near,0.600562,5.251043,1.101122,cross court,In,false,22:51:30,327.5
+Ball Machine,10,none,Forehand,Flat,30.697512,0,0,0,service_box,deuce,near,0.822555,8.478869,no_mans_land,ad,far,0.376979,20.569784,0.744927,down the line,In,false,22:51:31,328.769989
+Me,12,none,Forehand,Slice,28.346739,1,0,0,service_box,ad,far,0.078031,18.10198,no_mans_land,ad,near,-0.028896,4.461728,0.661982,cross court,In,false,22:51:32,330.390015
+Ball Machine,12,none,Forehand,Topspin,24.877207,0,0,0,service_box,deuce,near,0.258596,10.096862,no_mans_land,deuce,far,-0.12008,21.305805,1.08525,inside out,In,false,22:51:34,332.040009
+Me,14,none,Backhand,Topspin,33.791569,1,0,0,service_box,ad,far,0.586638,16.088045,no_mans_land,deuce,near,0.670329,2.511329,1.196946,down the line,In,false,22:51:36,333.839996
+Ball Machine,14,none,Forehand,Flat,25.568068,0,0,0,service_box,ad,near,-0.880229,6.476374,service_box,ad,far,0.379481,19.031271,0.938832,cross court,In,false,22:51:37,335.23999
+Me,16,none,Forehand,Topspin,32.156906,1,0,0,service_box,ad,far,0.758813,17.586927,no_mans_land,ad,near,-1.13719,3.241954,1.497563,cross court,In,false,22:51:39,336.899994
+Ball Machine,16,none,Forehand,Topspin,35.006386,0,0,0,service_box,deuce,near,0.630522,7.874177,no_mans_land,ad,far,0.82735,19.764715,0.877156,down the line,In,false,22:51:41,338.48999
+Me,18,none,Backhand,Topspin,28.758938,1,0,0,no_mans_land,ad,far,0.34969,18.349611,service_box,deuce,near,0.493915,6.019959,0.471859,down the line,In,false,22:51:43,340.5
+Ball Machine,18,none,Feed,Flat,17.320551,0,0,0,service_box,deuce,far,-0.131626,17.202171,no_mans_land,deuce,near,0.573396,0.231969,0.807619,---,In,false,22:52:01,358.589996
+Me,0,none,Forehand,Topspin,55.243675,2,0,0,service_box,ad,near,-0.584565,6.18622,no_mans_land,deuce,far,-0.381127,20.456509,1.530354,inside in,In,false,22:52:03,360.790009
+Ball Machine,20,none,Backhand,Flat,39.742054,0,0,0,no_mans_land,deuce,far,-0.317319,22.196079,out,deuce,near,0.55638,-0.684615,0.543342,cross court,In,false,22:52:04,362.140015
+Me,2,none,Backhand,Topspin,79.758636,2,0,0,no_mans_land,deuce,near,3.64028,2.750042,no_mans_land,deuce,far,-0.475156,21.718019,3.241124,cross court,In,false,22:52:06,364.390015
+Ball Machine,22,none,Feed,Flat,17.320551,0,0,0,service_box,ad,far,0.425905,17.029648,no_mans_land,deuce,near,0.369973,1.940552,0.912079,---,In,false,22:52:14,371.690002
+Me,4,none,Forehand,Topspin,45.189171,2,0,0,no_mans_land,deuce,near,1.638596,1.753211,no_mans_land,ad,far,0.432269,22.811323,0.903113,down the line,In,false,22:52:16,373.589996
+Ball Machine,24,none,Backhand,Topspin,36.124073,0,0,0,service_box,deuce,near,1.210764,6.867726,out,deuce,near,1.739998,-1.387204,1.230369,cross court,Net,false,22:52:17,375
+Me,0,none,Feed,Flat,20.259352,3,0,0,no_mans_land,deuce,near,1.75033,3.906908,service_box,deuce,far,-0.3153,14.279536,1.937344,---,In,false,22:52:31,388.890015
+Ball Machine,26,none,Backhand,Topspin,43.118038,0,0,0,out,deuce,far,-0.228114,24.510517,out,deuce,near,0.142559,-0.873322,0.927611,cross court,Out,false,22:52:32,390.040009
+Me,2,none,Forehand,Topspin,81.060181,3,0,0,service_box,deuce,near,3.049206,5.717381,out,deuce,far,-0.317848,25.668915,1.295666,inside out,In,false,22:52:34,392.190002
+Ball Machine,28,none,Backhand,Flat,41.839893,0,0,0,no_mans_land,ad,far,0.244107,18.668781,out,deuce,near,3.814301,-1.455389,0.491183,down the line,In,false,22:52:36,393.910004
+Me,4,none,Forehand,Topspin,74.085922,3,0,0,no_mans_land,deuce,near,0.627337,3.96988,no_mans_land,deuce,far,-0.560798,23.113741,2.140659,inside out,In,false,22:52:38,395.98999
+Ball Machine,30,none,Backhand,Topspin,41.589748,0,0,0,no_mans_land,ad,far,1.353134,19.533655,out,deuce,near,1.402885,-1.134709,0.914402,down the line,In,false,22:52:39,396.970001
+Me,1,serve,Serve,Slice,66.549217,5,0,0,service_box,ad,far,0.148168,16.450012,no_mans_land,deuce,near,0.744421,0.986068,2.60379,down the T,Out,false,22:58:15,732.719971
+Ball Machine,33,none,Serve,Slice,122.586555,0,0,0,no_mans_land,deuce_alley,near,5.429233,1.894645,no_mans_land,deuce,far,-0.48729,22.90988,0.962257,out wide,Out,false,22:58:24,742.219971
+Me,1,serve,Serve,Slice,51.452129,6,0,0,service_box,deuce,far,-1.855323,18.055866,no_mans_land,deuce,near,0.487845,0.328146,2.739397,down the T,In,false,22:58:41,759.159973
+Ball Machine,35,none,Serve,Slice,43.704952,0,0,0,service_box,ad,near,-2.664358,8.356098,no_mans_land,ad,far,1.180364,23.310204,2.517401,out wide,In,false,22:58:58,775.830017
+Me,0,none,Forehand,Flat,53.120628,7,0,0,no_mans_land,deuce,far,-1.149703,20.144497,no_mans_land,ad_alley,near,-4.768275,0.254862,0.961337,down the line,In,false,22:58:59,777.22998
+Ball Machine,37,none,Serve,Slice,57.997528,0,0,0,service_box,ad,near,-3.925814,6.242249,no_mans_land,ad,far,1.216263,23.487036,2.551526,out wide,In,false,22:59:22,799.929993
+Me,0,none,Forehand,Flat,38.291595,8,0,0,out,deuce,far,-1.75667,23.929573,no_mans_land,ad_alley,near,-5.464394,-0.518438,1.079973,down the line,Out,false,22:59:23,801.030029
+Ball Machine,39,none,Serve,Slice,63.820965,0,0,0,service_box,deuce,far,-1.891014,11.96002,no_mans_land,ad,far,1.214379,23.18084,2.200017,out wide,Net,false,22:59:35,813.090027
+Ball Machine,40,none,Serve,Slice,57.234989,0,0,0,no_mans_land,ad,near,-2.858593,2.852436,no_mans_land,ad,far,1.14537,23.600822,3.794032,out wide,Out,false,22:59:50,828.030029
+Me,1,serve,Serve,Slice,58.371735,9,0,0,service_box,deuce,near,2.878931,10.435087,out,ad,near,-0.660141,-0.590566,2.433216,out wide,Net,false,23:00:06,843.960022
+Ball Machine,42,none,Serve,Kick,72.73764,0,0,0,service_box,deuce,near,2.573003,10.693851,no_mans_land,ad,near,-0.994275,0.378873,2.560324,out wide,Net,false,23:00:42,880.22998
+Ball Machine,43,none,Serve,Flat,65.292023,0,0,0,service_box,ad,far,1.794216,14.316351,out,ad,near,-0.702769,-0.663302,2.501783,down the T,In,false,23:00:49,887.429993
+Me,1,serve,Serve,Flat,67.437477,10,0,0,service_box,ad,far,1.149237,17.46913,no_mans_land,deuce,far,-0.712907,23.077229,2.56204,out wide,Net,false,23:01:38,935.530029
+Me,1,serve,Serve,Slice,49.184826,11,0,0,service_box,deuce,near,1.714907,6.416005,service_box,deuce,far,-0.454545,23.684401,2.754398,down the T,In,false,23:01:48,945.799988
+Ball Machine,46,none,Backhand,Topspin,47.816166,0,0,0,no_mans_land,ad,far,0.891558,18.7635,no_mans_land,deuce,near,2.101642,-0.263145,0.936294,down the line,In,false,23:01:49,947.27002
+Me,2,return,Forehand,Topspin,46.092514,11,0,0,no_mans_land,ad,near,-2.393321,2.168941,out,ad,far,0.933078,25.642179,1.031082,cross court,In,false,23:01:51,948.830017
+Ball Machine,48,none,Forehand,Topspin,49.220734,0,0,0,out,ad,far,2.379027,24.088423,out,ad,near,-1.863068,-1.532074,1.34746,cross court,Out,false,23:01:52,950.369995
+Me,1,serve,Serve,Slice,61.944405,12,0,0,service_box,ad,near,-2.641447,6.271012,no_mans_land,ad,far,0.599822,23.353956,2.487584,out wide,In,false,23:02:06,964.169983
+Ball Machine,50,none,Forehand,Topspin,48.554039,0,0,0,no_mans_land,ad,far,1.030405,20.644264,no_mans_land,ad_alley,near,-4.463274,-0.002262,0.938344,down the line,In,false,23:02:07,965.200012
+Me,2,return,Forehand,Topspin,49.648159,12,0,0,no_mans_land,ad,near,-0.528574,4.130558,out,ad,far,1.474484,25.670935,1.070804,cross court,In,false,23:02:09,966.539978
+Ball Machine,52,none,Backhand,Topspin,50.83588,0,0,0,service_box,deuce,far,-1.375408,16.061153,out,ad,near,-0.812581,-0.767629,1.136902,inside in,In,false,23:02:10,967.940002
+Me,3,serve_plus_one,Backhand,Slice,40.400623,12,0,0,no_mans_land,ad,near,-2.013799,1.898875,out,deuce,far,-1.587764,25.161976,0.503462,down the line,In,false,23:02:11,969.369995
+Ball Machine,54,none,Backhand,Topspin,40.574314,0,0,0,service_box,ad,far,0.347621,16.634321,out,ad,near,-1.53022,-0.883413,1.119335,inside out,In,false,23:02:13,971.140015
+Me,4,return_plus_one,Forehand,Topspin,47.936306,12,0,0,service_box,ad_alley,near,-4.377923,6.733452,out,ad,far,1.231041,25.439699,1.014809,down the line,Out,false,23:02:15,972.840027
+Ball Machine,56,none,Feed,Flat,20.784662,0,0,0,service_box,deuce,far,-1.601674,18.061771,no_mans_land,ad_alley,near,-4.910097,-0.499133,0.838596,---,In,false,23:02:24,982.219971
+Me,1,serve,Serve,Flat,70.693932,13,0,0,service_box,deuce,near,1.18411,6.512631,no_mans_land,deuce,far,-1.091944,24.115467,2.624689,down the T,In,false,23:02:33,991.27002
+Ball Machine,58,none,Forehand,Topspin,49.321014,0,0,0,no_mans_land,deuce,far,-3.781917,18.481276,no_mans_land,deuce,near,1.776634,-0.456606,1.010471,inside out,In,false,23:02:34,992.27002
+Me,2,return,Backhand,Flat,32.695736,13,0,0,service_box,deuce,near,0.831336,5.862181,out,deuce_alley,far,-4.474311,25.363659,0.969001,down the line,In,false,23:02:36,993.73999
+Ball Machine,60,none,Backhand,Topspin,52.379929,0,0,0,no_mans_land,deuce,far,-1.293702,21.006037,no_mans_land,deuce,near,1.259922,2.297945,1.473837,cross court,In,false,23:02:38,996
+Me,3,serve_plus_one,Backhand,Topspin,48.627453,13,0,0,no_mans_land,deuce,near,3.172519,1.168921,no_mans_land,deuce,far,-0.558581,23.482712,1.7229,cross court,In,false,23:02:39,997.340027
+Ball Machine,62,none,Backhand,Flat,32.711819,0,0,0,no_mans_land,ad,far,1.728449,18.749485,out,deuce,near,3.052842,-0.885283,1.550524,down the line,In,false,23:02:41,998.669983
+Me,4,return_plus_one,FH Volley,Flat,19.918634,13,0,0,no_mans_land,ad,near,-1.868935,4.634364,no_mans_land,ad,far,1.728449,19.958273,1.90073,cross court,In,false,23:02:43,1000.619995
+Ball Machine,64,none,Forehand,Flat,35.163445,0,0,0,service_box,deuce,near,2.180103,8.493307,out,ad,near,-3.373526,-1.939509,0.929242,down the line,Net,false,23:02:44,1001.539978
+Me,1,serve,Serve,Slice,57.903637,14,0,0,service_box,deuce,far,-1.604285,11.902268,no_mans_land,ad,far,0.47554,23.163151,2.464514,out wide,Net,false,23:03:05,1022.469971
+Me,1,serve,Serve,Slice,58.492378,15,0,0,service_box,ad,near,-2.456601,7.371933,no_mans_land,ad,far,1.418449,24.215153,2.189478,out wide,In,false,23:03:11,1029.339966
+Ball Machine,67,none,Forehand,Topspin,43.227783,0,0,0,service_box,ad,far,2.917152,15.108196,no_mans_land,ad_alley,near,-4.542905,-0.377885,0.998752,down the line,In,false,23:03:13,1030.569946
+Me,2,return,Forehand,Flat,48.360489,15,0,0,no_mans_land,ad_alley,near,-4.674681,0.657348,no_mans_land,ad_alley,far,4.617431,24.509623,0.968668,cross court,Out,false,23:03:14,1032.170044
+Ball Machine,69,none,Feed,Flat,25.114799,0,0,0,service_box,deuce,far,-3.17351,16.574173,no_mans_land,ad,near,-1.84387,0.415218,1.13068,---,In,false,23:03:22,1040.319946
+Me,1,serve,Serve,Flat,72.677963,16,0,0,service_box,deuce,near,1.318945,6.264452,service_box,deuce,far,0.362138,23.418528,2.332581,down the T,In,false,23:03:41,1058.609985
+Ball Machine,71,none,Forehand,Topspin,35.602028,0,0,0,service_box,ad,far,1.859847,17.744474,no_mans_land,deuce,near,1.888881,-0.006939,1.045932,inside in,In,false,23:03:42,1059.569946
+Me,2,none,Forehand,Topspin,59.816349,16,0,0,no_mans_land,ad,near,-3.485208,0.540634,no_mans_land,ad,far,1.926975,23.64926,1.459649,cross court,In,false,23:03:44,1061.609985
+Ball Machine,73,none,Feed,Flat,25.114799,0,0,0,service_box,deuce,far,-0.955248,16.83539,no_mans_land,ad,near,-2.091118,3.155132,2.886734,---,In,false,23:03:49,1066.619995
+Me,1,serve,Serve,Slice,60.552822,16,0,0,service_box,deuce,near,0.557435,6.598135,no_mans_land,ad,far,1.351103,23.575075,2.335501,down the T,Out,false,23:03:56,1074.339966
+Me,1,serve,Serve,Slice,53.405334,17,0,0,service_box,ad,near,-2.511231,7.050384,no_mans_land,ad,far,0.343541,23.355911,2.604067,out wide,In,false,23:04:06,1084.109985
+Ball Machine,76,none,Forehand,Topspin,65.935036,0,0,0,service_box,ad,near,-0.795011,11.079214,out,ad_alley,near,-4.266532,-0.585886,0.737448,down the line,Net,false,23:04:07,1085.369995
+Ball Machine,77,none,Serve,Flat,73.503418,0,0,0,service_box,ad,far,1.527721,17.727133,no_mans_land,deuce,far,-0.59524,24.128134,2.666192,out wide,Net,false,23:04:46,1123.540039
+Ball Machine,78,none,Serve,Slice,60.451248,0,0,0,service_box,deuce,near,1.655094,6.079478,no_mans_land,deuce,far,-0.913445,23.754494,2.600881,down the T,In,false,23:04:52,1130.140015
+Me,0,none,Forehand,Topspin,46.820461,18,0,0,no_mans_land,ad,far,1.073175,20.33094,out,deuce,near,2.425097,-0.79075,1.021685,inside in,In,false,23:04:53,1131.339966
+Ball Machine,80,none,Forehand,Topspin,45.167919,0,0,0,no_mans_land,deuce,near,0.915032,1.435808,out,ad,far,0.943026,25.88497,1.377622,down the line,In,false,23:04:55,1132.73999
+Me,2,none,Forehand,Topspin,45.550411,18,0,0,no_mans_land,ad,far,2.424822,22.125916,out,deuce,near,0.729543,-1.341174,1.219193,inside in,In,false,23:04:56,1134.280029
+Ball Machine,82,none,Forehand,Topspin,41.747997,0,0,0,out,ad,near,-1.297456,-0.934066,out,ad,far,3.200856,26.823156,1.669581,cross court,Out,false,23:04:58,1136.079956
+Me,4,none,Forehand,Flat,36.851841,18,0,0,service_box,ad_alley,far,4.303118,15.236987,out,ad,near,-1.465193,-2.114974,0.385026,down the line,Out,false,23:05:00,1137.810059
+Ball Machine,84,none,Serve,Slice,67.904625,0,0,0,service_box,deuce_alley,far,-4.224324,12.156746,no_mans_land,ad,far,0.675987,24.83375,2.477559,out wide,Net,false,23:05:23,1161.439941
+Ball Machine,85,none,Serve,Slice,92.756111,0,0,0,service_box,ad_alley,near,-5.027829,7.774154,service_box,ad,far,-0.236423,24.19322,2.540656,out wide,Out,false,23:05:33,1170.51001
+Me,0,none,Forehand,Flat,33.154282,19,0,0,no_mans_land,deuce,far,-0.596328,18.32865,no_mans_land,ad_out,near,-5.582688,-0.094398,1.381949,down the line,In,false,23:05:34,1171.650024
+Ball Machine,87,none,Serve,Slice,61.999187,0,0,0,service_box,deuce,near,1.780338,6.242354,no_mans_land,deuce,far,-0.911109,23.432646,2.574504,down the T,In,false,23:05:54,1192.209961
+Me,0,none,Forehand,Flat,51.46106,20,0,0,no_mans_land,ad,far,2.487905,19.268761,out,deuce,near,3.118889,-0.663107,1.256794,inside in,In,false,23:05:55,1193.310059
+Ball Machine,89,none,Forehand,Topspin,60.314476,0,0,0,no_mans_land,deuce,near,2.092245,2.09017,out,ad,far,2.48664,25.136272,1.314143,down the line,In,false,23:05:57,1194.650024
+Me,2,none,Backhand,Topspin,51.854198,20,0,0,no_mans_land,ad,far,0.548407,20.23489,out,deuce,near,1.536191,-0.867272,0.921596,down the line,In,false,23:05:58,1195.829956
+Ball Machine,91,none,Backhand,Topspin,60.036926,0,0,0,no_mans_land,ad,near,-3.021637,2.109309,no_mans_land,ad,far,0.713042,24.719727,1.058738,inside out,In,false,23:05:59,1197.109985
+Me,4,none,Forehand,Flat,37.652409,20,0,0,no_mans_land,ad,far,1.256724,21.397062,out,ad,near,-3.512489,-2.390563,0.887295,cross court,In,false,23:06:00,1198.310059
+Ball Machine,93,none,Backhand,Topspin,64.555389,0,0,0,no_mans_land,ad,near,-3.870719,2.266077,out,ad,far,2.103433,25.315903,1.808101,inside out,In,false,23:06:02,1200.449951
+Me,6,none,Feed,Flat,17.320551,20,0,0,no_mans_land,ad,far,1.742513,19.428844,no_mans_land,ad,near,-0.388725,3.917503,1.552123,---,In,false,23:06:10,1208.130005
+Ball Machine,95,none,Serve,Slice,80.993774,0,0,0,service_box,ad,near,-2.975219,6.44798,no_mans_land,ad,far,0.940248,23.973629,2.354481,out wide,In,false,23:06:21,1218.810059
+Me,8,none,Forehand,Flat,36.535847,20,0,0,no_mans_land,ad,far,3.07759,20.699608,no_mans_land,ad_alley,near,-4.948462,-0.248957,0.931868,down the line,In,false,23:06:22,1219.680054
+Ball Machine,97,none,Forehand,Flat,72.356392,0,0,0,no_mans_land,ad_alley,near,-4.53975,2.296721,out,ad_alley,far,4.589025,25.108622,1.080674,cross court,Out,false,23:06:24,1222.219971
+Me,10,none,Feed,Flat,22.516716,20,0,0,service_box,deuce,far,-1.299413,16.342155,out,ad,near,-1.956232,-0.589936,0.502567,---,In,false,23:06:33,1230.930054
+Ball Machine,99,none,Serve,Flat,71.549355,0,0,0,service_box,ad,far,1.805865,17.794765,no_mans_land,deuce,far,-0.681975,23.719473,2.589573,out wide,Net,false,23:06:42,1240.050049
+Ball Machine,100,none,Serve,Kick,39.311184,0,0,0,service_box,deuce,near,1.545571,6.03089,no_mans_land,deuce,far,-0.862039,23.849913,2.485745,down the T,In,false,23:06:52,1250.22998
+Me,0,none,Forehand,Flat,63.760948,21,0,0,no_mans_land,deuce,far,-3.059867,18.864462,no_mans_land,deuce,near,1.917166,0.508994,1.185298,inside out,In,false,23:06:54,1251.75
+Ball Machine,102,none,Backhand,Slice,44.807308,0,0,0,service_box,deuce,near,1.566848,5.554122,out,deuce_alley,far,-4.493604,25.188841,0.618954,down the line,In,false,23:06:55,1253.319946
+Me,2,none,Backhand,Slice,42.247528,21,0,0,no_mans_land,ad,far,3.021377,23.161737,no_mans_land,deuce,near,2.241334,2.015206,0.462209,down the line,In,false,23:06:57,1254.930054
+Ball Machine,104,none,Forehand,Slice,28.909044,0,0,0,service_box,deuce,near,2.526815,10.011391,no_mans_land,ad,far,3.679627,24.89432,0.791014,down the line,In,false,23:06:59,1256.469971
+Me,4,none,BH Volley,Flat,21.03163,21,0,0,service_box,deuce,near,0.715593,11.613436,service_box,deuce,near,2.526815,9.486144,2.386438,cross court,Net,false,23:07:00,1258.030029
+Ball Machine,106,none,Serve,Slice,76.970078,0,0,0,no_mans_land,ad,near,-3.426074,5.07656,no_mans_land,ad,far,0.760973,23.965174,2.555859,out wide,Out,false,23:07:23,1281.189941
+Me,0,none,Forehand,Topspin,43.295315,22,0,0,no_mans_land,deuce,far,-2.380623,19.784985,out,ad_alley,near,-4.978682,-2.479792,0.875414,down the line,In,false,23:07:24,1282.140015
+Ball Machine,108,none,Backhand,Slice,29.911381,0,0,0,service_box,ad,far,2.173004,15.108196,out,deuce,far,-1.123995,25.001913,1.434085,down the line,Net,false,23:07:26,1283.719971
+Ball Machine,109,none,Serve,Slice,73.952072,0,0,0,service_box,ad,near,-3.820302,5.735156,no_mans_land,ad,far,1.133483,24.787668,2.583743,out wide,In,false,23:07:33,1291.050049
+Me,3,none,Forehand,Topspin,47.764477,22,0,0,no_mans_land,deuce,far,-1.528839,18.601179,no_mans_land,ad_alley,near,-4.78704,-0.246161,1.42208,down the line,In,false,23:07:34,1292.089966
+Ball Machine,111,none,Backhand,Topspin,59.648193,0,0,0,no_mans_land,deuce,near,3.48901,2.559765,out,deuce,far,-0.070562,25.466928,0.981722,cross court,In,false,23:07:36,1293.640015
+Me,5,none,Backhand,Topspin,27.570068,22,0,0,service_box,deuce_alley,near,5.424457,6.630397,no_mans_land,deuce_alley,near,4.14746,0.551809,3.212055,cross court,Net,false,23:07:37,1295.439941
+Ball Machine,113,none,Serve,Slice,57.556007,0,0,0,service_box,deuce,near,3.547812,7.040822,no_mans_land,deuce,far,-0.876764,23.456438,2.573591,out wide,In,false,23:08:01,1318.48999
+Me,0,none,Backhand,Topspin,40.35334,23,0,0,no_mans_land,ad,far,0.056684,23.594807,no_mans_land,deuce_alley,near,4.893992,0.123244,0.951079,down the line,In,false,23:08:02,1319.939941
+Ball Machine,115,none,Serve,Slice,60.968136,0,0,0,service_box,deuce,far,-2.785408,18.160393,no_mans_land,ad,far,0.581571,23.505909,2.321167,out wide,Net,false,23:08:21,1338.48999
+Ball Machine,116,none,Serve,Slice,55.223362,0,0,0,service_box,ad,near,-3.244656,5.966169,out,ad,far,1.065839,23.380791,2.480272,out wide,In,false,23:08:28,1345.719971
+Me,0,none,Forehand,Flat,56.167461,24,0,0,no_mans_land,ad,far,0.549876,19.881002,out,ad_alley,near,-5.121285,-1.218895,1.089824,down the line,In,false,23:08:29,1346.959961
+Ball Machine,118,none,Backhand,Slice,35.644676,0,0,0,service_box,deuce,near,3.031913,6.085198,out,ad,far,1.153391,25.441521,0.889093,inside in,In,false,23:08:31,1348.52002
+Me,2,none,Backhand,Slice,21.870155,24,0,0,service_box,deuce,near,2.579065,6.375612,service_box,deuce_alley,near,4.295853,5.115304,1.249617,down the line,Net,false,23:08:33,1350.540039
+Ball Machine,120,none,Serve,Slice,73.250961,0,0,0,service_box,ad,far,1.907644,16.464096,out,deuce,far,-0.891274,25.106705,2.708297,out wide,Net,false,23:08:54,1372.319946
+Ball Machine,121,none,Serve,Kick,42.569393,0,0,0,no_mans_land,deuce,near,1.137037,4.954093,no_mans_land,deuce,far,-0.820566,23.8155,2.642154,down the T,Out,false,23:09:07,1385.23999
+Me,0,none,Forehand,Flat,43.619438,25,0,0,no_mans_land,ad,far,1.840886,22.360317,no_mans_land,deuce,near,1.406544,-0.047628,1.169414,inside in,In,false,23:09:09,1386.560059
+Ball Machine,123,none,Serve,Slice,81.448669,0,0,0,service_box,ad,near,-3.306875,5.760313,no_mans_land,ad,far,1.250892,24.486605,2.433056,out wide,In,false,23:09:26,1404.390015
+Me,0,none,Forehand,Topspin,36.759766,26,0,0,no_mans_land,deuce,far,-2.499809,23.197832,out,ad_alley,near,-5.002957,-1.919343,0.960117,down the line,In,false,23:09:27,1405.439941
+Ball Machine,125,none,Backhand,Topspin,57.120255,0,0,0,no_mans_land,deuce,near,2.390841,3.415545,out,deuce,far,-1.971389,26.515982,1.939284,cross court,In,false,23:09:30,1408.160034
+Me,2,none,Backhand,Topspin,41.262531,26,0,0,service_box,deuce,far,-3.46652,17.744474,out,deuce,near,3.780051,-1.158347,0.783788,cross court,In,false,23:09:32,1409.839966
+Ball Machine,127,none,Backhand,Topspin,71.637833,0,0,0,no_mans_land,deuce,near,2.361709,2.909757,out,deuce_alley,far,-4.681649,25.113241,1.413574,down the line,In,false,23:09:34,1411.48999
+Me,4,none,Backhand,Slice,39.350594,26,0,0,service_box,deuce,near,0.936551,10.705893,out,deuce_alley,near,4.11787,-1.003705,0.72145,down the line,Net,false,23:09:35,1412.640015
+Ball Machine,130,none,Serve,Flat,33.532322,0,0,0,service_box,ad,far,2.168369,18.215555,no_mans_land,deuce,far,-0.947213,23.383858,2.626947,out wide,Net,false,23:09:52,1430.040039
+Ball Machine,131,none,Serve,Slice,68.471664,0,0,0,service_box,deuce,near,1.72246,6.234074,no_mans_land,deuce,far,-0.998203,24.241833,2.584102,down the T,In,false,23:10:00,1438.390015
+Me,0,none,Forehand,Flat,48.125687,28,0,0,out,deuce,far,-0.900785,24.0762,no_mans_land,deuce,near,2.517775,0.875132,1.290853,inside out,Out,false,23:10:02,1439.48999
+Ball Machine,133,none,Backhand,Flat,33.998096,0,0,0,no_mans_land,deuce,near,3.352905,3.078363,out,deuce,far,-1.303771,25.259342,0.864733,cross court,In,false,23:10:03,1440.72998
+Me,0,none,Backhand,Flat,47.480598,29,0,0,no_mans_land,deuce,far,-1.920675,20.292912,out,deuce_alley,near,4.394848,-1.603716,1.143317,down the line,In,false,23:10:06,1443.72998
+Ball Machine,135,none,Backhand,Topspin,55.580803,0,0,0,out,ad,near,-2.350848,-0.507196,out,deuce,far,-3.339535,26.554188,1.356432,down the line,Out,false,23:10:07,1445.339966
+Ball Machine,136,none,Serve,Slice,65.563225,0,0,0,no_mans_land,ad,near,-3.475861,2.752225,no_mans_land,ad,far,0.733083,23.661638,2.495171,out wide,Out,false,23:10:36,1473.459961
+Me,0,none,Forehand,Flat,62.739914,30,0,0,service_box,deuce,near,1.181764,11.181301,out,ad_alley,near,-4.178453,-2.140203,1.083584,down the line,Net,false,23:10:37,1474.599976
+Me,0,none,Feed,Flat,20.245466,31,0,0,service_box,deuce,far,-1.552104,18.219692,service_box,ad,near,-1.927561,9.196038,1.297825,---,In,false,23:10:44,1481.849976
+Ball Machine,139,none,Serve,Slice,61.384411,0,0,0,service_box,ad,near,-2.754701,6.599709,no_mans_land,ad,far,1.336886,23.338657,2.468135,out wide,In,false,23:10:52,1490
+Me,2,none,Forehand,Flat,51.842285,31,0,0,no_mans_land,ad,far,1.755241,19.487705,no_mans_land,ad_alley,near,-4.936067,-0.268484,1.35607,down the line,In,false,23:10:53,1491.160034
+Ball Machine,141,none,Forehand,Topspin,59.553631,0,0,0,no_mans_land,deuce,near,2.974888,2.527185,no_mans_land,ad,far,2.640051,20.976475,1.471617,down the line,In,false,23:10:55,1492.560059
+Me,4,none,Backhand,Flat,31.9706,31,0,0,no_mans_land,ad,far,1.515998,18.438148,no_mans_land,deuce,near,2.702921,-0.499549,0.665512,down the line,In,false,23:10:56,1493.51001
+Ball Machine,143,none,Backhand,Topspin,57.46809,0,0,0,service_box,deuce,near,2.439489,7.166037,service_box,ad,far,1.845905,17.712248,1.841995,inside in,In,false,23:10:59,1497.349976
+Me,6,none,Backhand,Topspin,25.855408,31,0,0,service_box,ad,far,1.531922,15.246817,no_mans_land,deuce,near,3.396646,2.411493,0.438634,down the line,In,false,23:11:01,1499.050049
+Me,7,none,Feed,Flat,21.471338,31,0,0,service_box,ad,far,0.847599,17.3312,service_box,deuce,near,2.493454,8.470872,1.136609,---,In,false,23:11:09,1507.449951
+Ball Machine,146,none,Serve,Slice,62.506481,0,0,0,service_box,deuce,near,1.683083,5.940566,no_mans_land,deuce,far,-0.554076,23.340628,2.558802,down the T,In,false,23:11:20,1517.5
+Me,9,none,Forehand,Topspin,47.628204,31,0,0,no_mans_land,ad,far,2.606915,19.370962,out,deuce,near,2.801489,-1.837725,0.867714,inside in,In,false,23:11:21,1518.75
+Ball Machine,148,none,Forehand,Topspin,56.429531,0,0,0,service_box,ad,near,-0.446518,6.111561,out,ad,far,2.773483,25.772406,1.371916,cross court,In,false,23:11:22,1520.26001
+Me,11,none,Forehand,Flat,53.720726,31,0,0,service_box,deuce,near,1.10604,11.143125,out,ad,near,-1.232679,-0.694808,0.574461,down the line,Net,false,23:11:24,1521.800049
+Me,0,none,Feed,Flat,20.133863,32,0,0,service_box,ad,far,1.519698,16.207039,service_box,deuce,near,1.012133,7.715775,0.840632,---,In,false,23:11:32,1529.75
+Ball Machine,151,none,Serve,Slice,80.374672,0,0,0,service_box,ad,near,-2.255133,5.828212,no_mans_land,ad,far,0.977866,24.561661,2.515946,down the T,In,false,23:11:44,1541.77002
+Me,2,none,Forehand,Slice,36.396614,32,0,0,no_mans_land,ad,far,1.713793,18.858158,out,ad_alley,near,-5.377968,-1.747554,0.888495,down the line,In,false,23:11:45,1542.75
+Ball Machine,153,none,Backhand,Topspin,26.610668,0,0,0,service_box,ad,near,-3.41372,7.877698,service_box,ad,far,2.092991,17.879984,2.352846,inside out,In,false,23:11:47,1544.930054
+Me,4,none,Forehand,Flat,35.30991,32,0,0,no_mans_land,deuce,far,-3.040183,20.4678,no_mans_land,ad_alley,near,-4.643384,2.586681,0.984164,down the line,In,false,23:11:49,1546.630005
+Ball Machine,155,none,Backhand,Topspin,45.877804,0,0,0,service_box,deuce,near,0.995124,6.511806,out,deuce,far,-2.293109,25.861727,1.174881,cross court,In,false,23:11:50,1548.369995
+Me,6,none,Backhand,Topspin,29.981428,32,0,0,service_box,deuce,far,-3.712489,17.335304,service_box,deuce,near,0.989161,5.274755,0.676191,cross court,In,false,23:11:51,1549.449951
+Ball Machine,157,none,Serve,Flat,73.831291,0,0,0,service_box,deuce,far,-1.091498,16.464096,no_mans_land,deuce,far,-0.330031,23.216505,2.468716,out wide,Net,false,23:12:08,1566.099976
+Ball Machine,158,none,Serve,Slice,53.794735,0,0,0,service_box,deuce,near,1.5152,5.871282,no_mans_land,deuce,far,-0.674634,23.998037,2.49009,down the T,In,false,23:12:16,1574.099976
+Me,0,none,Forehand,Flat,48.735806,33,0,0,service_box,deuce,far,-1.368601,17.587646,no_mans_land,deuce,near,1.471174,-0.357418,1.248997,inside out,In,false,23:12:17,1575.400024
+Ball Machine,160,none,Backhand,Slice,36.860142,0,0,0,service_box,ad,far,0.323469,12.564348,no_mans_land,deuce,far,-1.609715,24.643822,0.699649,down the line,Net,false,23:12:19,1576.72998
+Ball Machine,161,none,Serve,Slice,71.582466,0,0,0,service_box,ad,near,-3.870934,5.836182,no_mans_land,ad,far,0.977916,24.261229,2.518135,out wide,In,false,23:12:41,1598.599976
+Me,0,none,Forehand,Slice,45.033768,34,0,0,no_mans_land,ad,far,2.222489,19.991589,out,ad_out,near,-5.49077,-1.558877,0.826401,down the line,In,false,23:12:42,1599.849976
+Ball Machine,163,none,Forehand,Flat,77.646049,0,0,0,no_mans_land,deuce,near,0.836088,4.030497,no_mans_land,ad,far,3.957868,23.896152,1.13965,down the line,In,false,23:12:44,1601.48999
+Me,2,none,Backhand,Flat,53.266571,34,0,0,no_mans_land,ad,far,1.588052,20.348198,out,ad,near,-0.461157,-1.627802,0.74019,inside out,In,false,23:12:45,1602.699951
+Ball Machine,165,none,Forehand,Flat,79.322166,0,0,0,no_mans_land,ad,near,-4.073993,4.107388,out,ad,far,2.187929,25.521708,1.35064,cross court,In,false,23:12:46,1604.099976
+Me,4,none,Feed,Flat,21.650688,34,0,0,service_box,ad,far,0.125067,17.810982,no_mans_land,ad,near,-2.437783,1.056292,0.637018,---,In,false,23:12:54,1611.849976
+Ball Machine,167,none,Serve,Flat,64.930855,0,0,0,service_box,ad,far,0.455794,17.513418,no_mans_land,deuce,far,-0.722493,23.733747,2.603027,down the T,Net,false,23:13:02,1620.140015
+Ball Machine,168,none,Serve,Slice,62.891453,0,0,0,service_box,ad,far,0.609236,17.348986,no_mans_land,deuce,far,-0.512748,23.362993,2.6215,down the T,Net,false,23:13:12,1629.939941
+Ball Machine,169,none,Serve,Slice,56.335175,0,0,0,service_box,deuce,far,-3.503828,17.446228,no_mans_land,ad,far,1.203919,24.848761,2.531893,out wide,Net,false,23:13:31,1648.77002
+Ball Machine,170,none,Serve,Slice,67.150223,0,0,0,service_box,ad,near,-2.469092,7.190474,no_mans_land,ad,far,1.049227,24.701387,2.526645,out wide,In,false,23:13:38,1656.369995
+Me,0,none,Forehand,Flat,53.666401,35,0,0,no_mans_land,ad,far,2.00526,18.567871,no_mans_land,ad_alley,near,-4.570874,-0.438802,1.206542,down the line,In,false,23:13:39,1657.369995
+Ball Machine,172,none,Forehand,Flat,51.644211,0,0,0,out,ad,near,-2.807433,-1.301818,out,ad,far,3.538081,25.419439,1.031537,cross court,Out,false,23:13:41,1658.670044
+Ball Machine,173,none,Feed,Flat,16.162416,0,0,0,service_box,ad,near,-2.818109,6.229489,service_box,deuce_alley,far,-5.276826,13.174403,3.091167,---,In,false,23:13:55,1673.459961
+Me,1,serve,Serve,Flat,67.537598,36,0,0,service_box,deuce,far,-1.512182,18.073227,no_mans_land,deuce,near,1.010502,-0.460964,2.578554,down the T,In,false,23:14:07,1685.439941
+Ball Machine,175,none,Backhand,Slice,33.00806,0,0,0,service_box,ad,near,-1.240659,7.321681,no_mans_land,deuce,far,-2.828566,24.300566,0.896602,down the line,In,false,23:14:09,1686.469971
+Me,2,return,Forehand,Slice,25.698633,36,0,0,service_box,deuce_alley,far,-4.896218,16.078537,service_box,ad,near,-1.234294,5.76208,0.706897,down the line,Out,false,23:14:11,1688.560059
+Me,1,serve,Serve,Slice,67.300079,37,0,0,service_box,ad,far,2.568896,15.206258,out,ad,near,-1.024565,-1.06502,2.518357,out wide,In,false,23:14:24,1701.910034
+Ball Machine,178,none,Forehand,Topspin,59.201927,0,0,0,no_mans_land,deuce,near,3.654954,3.338859,out,ad_alley,far,4.956314,25.030252,0.97593,down the line,In,false,23:14:25,1703.01001
+Me,2,return,Backhand,Slice,34.149143,37,0,0,no_mans_land,ad,far,2.064771,19.820374,out,deuce,near,3.988923,-0.973222,0.376115,down the line,In,false,23:14:27,1704.469971
+Ball Machine,180,none,Forehand,Topspin,60.718636,0,0,0,no_mans_land,ad,near,-0.493549,4.557922,out,ad,far,2.281252,25.830355,1.264505,cross court,In,false,23:14:29,1706.869995
+Me,3,serve_plus_one,Forehand,Topspin,44.918934,37,0,0,no_mans_land,ad,far,3.201944,22.546618,out,ad,near,-1.138081,-1.741419,0.635897,cross court,In,false,23:14:30,1708.209961
+Ball Machine,182,none,Forehand,Topspin,61.905544,0,0,0,no_mans_land,ad,near,-0.973189,4.485884,out,ad,far,3.48399,25.390415,0.649884,cross court,In,false,23:14:32,1709.890015
+Me,4,return_plus_one,Forehand,Topspin,54.173897,37,0,0,no_mans_land,ad,far,1.462619,18.614895,out,ad,near,-2.629227,-1.579497,0.727963,cross court,In,false,23:14:33,1711.26001
+Ball Machine,184,none,Forehand,Topspin,62.28611,0,0,0,no_mans_land,ad,near,-2.177242,1.857718,out,ad,far,3.041701,25.101473,1.324697,cross court,In,false,23:14:35,1712.640015
+Me,5,in_play,Forehand,Flat,49.755219,37,0,0,no_mans_land,ad,far,1.196355,19.173655,out,ad,near,-2.697434,-2.393754,0.926127,cross court,In,false,23:14:36,1713.839966
+Ball Machine,186,none,Backhand,Topspin,59.842651,0,0,0,out,ad,near,-2.077207,-1.120078,no_mans_land,ad,far,2.849218,24.721035,1.474629,inside out,Out,false,23:14:37,1715.369995
+Me,7,in_play,Forehand,Flat,46.00922,37,0,0,no_mans_land,deuce,far,-3.58586,18.438148,out,ad,near,-2.483824,-2.868007,0.856111,down the line,In,false,23:14:39,1716.640015
+Ball Machine,188,none,Backhand,Slice,45.316879,0,0,0,no_mans_land,ad_out,near,-5.721787,3.175922,no_mans_land,deuce,far,-3.739064,23.337049,0.96765,down the line,Out,false,23:14:41,1718.569946
+Me,1,serve,Serve,Slice,62.382133,38,0,0,service_box,deuce,far,-0.979158,16.090473,service_box,deuce,near,0.541644,-0.180493,2.09057,down the T,In,false,23:14:56,1733.680054
+Ball Machine,190,none,Forehand,Topspin,49.832752,0,0,0,no_mans_land,deuce,near,2.345589,4.010067,no_mans_land,deuce,far,-0.977629,24.426161,1.092014,inside out,In,false,23:14:57,1734.76001
+Me,2,return,Backhand,Flat,56.764336,38,0,0,no_mans_land,deuce,far,-1.79809,18.654652,no_mans_land,deuce,near,2.61265,0.296878,1.006741,cross court,In,false,23:14:58,1736.140015
+Ball Machine,192,none,Backhand,Topspin,36.261284,0,0,0,service_box,deuce,far,-1.541607,17.842646,out,deuce,far,-2.816388,26.047304,0.741499,cross court,Net,false,23:14:59,1737.339966
+Me,1,serve,Serve,Slice,66.546555,39,0,0,service_box,ad,far,2.412285,16.361355,out,ad,near,-1.052661,-0.743111,2.514758,out wide,In,false,23:15:21,1758.939941
+Ball Machine,194,none,Forehand,Topspin,56.876152,0,0,0,no_mans_land,deuce,near,0.948249,3.512728,out,ad_alley,far,4.674534,25.695925,1.059267,down the line,In,false,23:15:22,1759.97998
+Me,2,return,Backhand,Topspin,52.108158,39,0,0,no_mans_land,deuce,far,-3.741401,20.034882,no_mans_land,deuce,near,0.118555,-0.516622,1.079504,cross court,In,false,23:15:23,1761.310059
+Ball Machine,196,none,Backhand,Flat,55.958069,0,0,0,out,deuce_alley,far,-5.088246,25.897676,out,deuce,far,-3.821846,25.429684,1.087482,down the line,Net,false,23:15:25,1762.709961
+Ball Machine,197,none,Feed,Flat,18.644678,0,0,0,no_mans_land,ad,near,-2.438748,4.258617,service_box,deuce_alley,far,-5.013311,15.459635,3.067228,---,In,false,23:15:34,1771.660034
+Me,1,serve,Serve,Flat,71.09626,40,0,0,service_box,ad,near,-2.212852,11.532877,out,deuce,near,1.100092,-0.527728,2.522754,out wide,Net,false,23:15:58,1796.25
+Me,1,serve,Serve,Slice,62.081463,41,0,0,service_box,deuce,far,-2.141185,17.88987,no_mans_land,deuce,near,0.819071,0.059706,2.375093,down the T,In,false,23:16:04,1801.880005
+Ball Machine,200,none,Backhand,Topspin,49.154613,0,0,0,no_mans_land,ad,near,-3.628794,3.865966,no_mans_land,deuce,far,-3.162448,22.496656,0.867282,down the line,In,false,23:16:05,1803.01001
+Me,2,return,Forehand,Flat,40.001629,41,0,0,service_box,deuce,far,-2.631336,15.238998,out,ad_alley,near,-4.450318,-1.759329,0.502553,down the line,In,false,23:16:06,1804.449951
+Ball Machine,202,none,BH Volley,Flat,23.382744,0,0,0,no_mans_land,deuce,near,2.395327,3.568201,service_box,deuce,far,-2.631336,16.447786,1.819853,cross court,In,false,23:16:08,1805.560059
+Me,1,serve,Serve,Slice,70.839531,42,0,0,service_box,ad,far,0.87221,17.681763,out,ad,near,-1.416935,-0.774656,2.565814,down the T,In,false,23:16:25,1823.25
+Ball Machine,204,none,Backhand,Flat,39.276028,0,0,0,no_mans_land,ad,near,-0.171248,2.394249,out,ad,far,1.554986,25.415703,0.847444,inside out,In,false,23:16:26,1824.209961
+Me,2,return,Forehand,Topspin,59.990852,42,0,0,no_mans_land,ad,far,2.299405,19.881002,out,ad,near,-0.418821,-0.755264,0.823986,cross court,In,false,23:16:28,1826.310059
+Ball Machine,206,none,Forehand,Flat,66.593506,0,0,0,no_mans_land,ad_alley,near,-4.165577,1.501388,no_mans_land,ad,far,3.056715,24.918699,0.965846,down the line,Out,false,23:16:30,1827.780029
+Me,1,serve,Serve,Slice,70.977188,43,0,0,service_box,deuce,far,-0.832271,15.690763,out,deuce,near,0.739613,-0.769901,2.591166,down the T,In,false,23:18:10,1927.52002
+Ball Machine,208,none,Forehand,Topspin,45.734688,0,0,0,no_mans_land,deuce,near,0.073192,3.799835,no_mans_land,deuce,far,-1.639621,24.882708,1.357367,inside out,In,false,23:18:11,1928.52002
+Me,2,return,Backhand,Topspin,60.575729,43,0,0,no_mans_land,ad,far,2.146409,20.419346,out,deuce,near,0.277108,-0.560477,1.230738,down the line,In,false,23:18:12,1929.98999
+Ball Machine,210,none,Forehand,Flat,38.573059,0,0,0,service_box,ad,near,-2.754679,5.871282,out,ad,far,2.946951,25.966497,0.929493,cross court,In,false,23:18:13,1931.189941
+Me,3,serve_plus_one,Forehand,Topspin,46.981564,43,0,0,service_box,ad,far,1.472273,14.617114,no_mans_land,ad_alley,near,-4.177094,-0.523194,0.864401,down the line,In,false,23:18:15,1933.290039
+Ball Machine,212,none,Forehand,Topspin,40.174927,0,0,0,no_mans_land,deuce,near,2.195376,1.893199,no_mans_land,ad_alley,far,4.358991,24.486731,0.611015,down the line,In,false,23:18:17,1934.890015
+Me,4,return_plus_one,Backhand,Topspin,43.598076,43,0,0,service_box,deuce,far,-2.121999,17.94343,no_mans_land,deuce,near,0.9731,-0.305058,1.275889,cross court,In,false,23:18:19,1936.550049
+Ball Machine,214,none,Backhand,Flat,39.354595,0,0,0,no_mans_land,deuce,near,2.37747,0.818686,out,deuce,far,-2.763466,25.105299,0.817816,cross court,In,false,23:18:20,1938.150024
+Me,5,in_play,Backhand,Topspin,37.370251,43,0,0,no_mans_land,deuce,far,-0.255375,18.522621,out,deuce,near,2.980921,-1.273058,1.049466,cross court,In,false,23:18:22,1940.189941
+Ball Machine,216,none,Forehand,Topspin,56.661976,0,0,0,no_mans_land,deuce,near,2.928394,5.27665,no_mans_land,deuce,far,-0.812965,23.272491,1.573275,inside out,In,false,23:18:24,1942.189941
+Me,7,in_play,Backhand,Topspin,46.961201,43,0,0,no_mans_land,ad,far,2.148909,20.161917,out,deuce_alley,near,4.54421,-0.584813,0.824345,down the line,In,false,23:18:26,1943.670044
+Ball Machine,218,none,Forehand,Topspin,54.26849,0,0,0,no_mans_land,ad,near,-2.227789,3.682587,no_mans_land,ad,far,2.247338,23.838469,0.899177,cross court,In,false,23:18:27,1945.119995
+Me,1,serve,Serve,Slice,76.264275,44,0,0,no_mans_land,ad,far,1.546166,19.702084,no_mans_land,ad,near,-1.164735,-0.16668,2.614819,down the T,Out,false,23:18:42,1960.150024
+Ball Machine,220,none,Forehand,Flat,52.470062,0,0,0,no_mans_land,ad_out,near,-5.904295,2.651709,out,ad_alley,far,4.763244,25.429064,1.285168,down the line,Out,false,23:18:43,1961.050049
+Me,1,serve,Serve,Kick,58.15905,45,0,0,service_box,ad,far,0.9617,16.885769,out,ad,near,-1.533696,-0.686091,2.649431,down the T,In,false,23:18:49,1966.949951
+Ball Machine,222,none,Backhand,Topspin,64.911125,0,0,0,no_mans_land,ad,near,-1.056873,3.772558,no_mans_land,ad,far,1.439005,21.349974,1.714291,inside out,In,false,23:18:50,1968.27002
+Me,2,return,Forehand,Flat,54.216934,45,0,0,no_mans_land,deuce,far,-3.134074,18.527782,out,ad,near,-1.744917,-0.917358,0.837109,down the line,In,false,23:18:51,1969.219971
+Ball Machine,224,none,Backhand,Topspin,51.434296,0,0,0,service_box,ad,near,-1.580346,6.320347,out,deuce,far,-2.833886,26.132578,0.604049,down the line,In,false,23:18:53,1970.569946
+Me,3,serve_plus_one,Forehand,Flat,31.207075,45,0,0,no_mans_land,deuce,far,-2.960473,22.674112,no_mans_land,ad,near,-1.421584,4.636899,0.608363,down the line,In,false,23:18:54,1971.599976
+Ball Machine,226,none,Backhand,Topspin,31.278851,0,0,0,service_box,ad,near,-3.262555,9.146938,out,deuce,far,-2.984021,26.816275,1.005707,down the line,In,false,23:18:56,1973.890015
+Me,4,return_plus_one,FH Volley,Flat,20.784662,45,0,0,service_box,ad,near,-0.151936,10.311347,service_box,ad,near,-3.262555,8.621692,2.121326,cross court,Net,false,23:18:58,1975.569946
+Me,1,serve,Serve,Kick,76.69268,46,0,0,no_mans_land,deuce,far,-1.437978,20.767187,no_mans_land,deuce,near,0.721467,-0.41891,2.605521,down the T,Out,false,23:19:29,2007.359985
+Ball Machine,229,none,Forehand,Topspin,45.886986,0,0,0,service_box,deuce,near,3.600586,5.772544,no_mans_land,deuce,far,-2.155601,24.264122,1.435014,inside out,In,false,23:19:30,2008.420044
+Me,1,serve,Serve,Slice,89.413361,47,0,0,no_mans_land,ad,far,1.689821,19.586195,out,ad,near,-1.479064,-1.116665,2.559112,down the T,Out,false,23:19:53,2030.819946
+Ball Machine,231,none,Forehand,Topspin,44.060162,0,0,0,no_mans_land,ad,near,-1.531213,4.58402,out,ad,far,3.655911,25.452608,1.299282,cross court,In,false,23:19:54,2031.890015
+Me,1,serve,Serve,Kick,65.206726,48,0,0,service_box,ad_alley,far,4.312169,15.268437,out,ad,near,-1.404005,-0.849885,2.616388,out wide,Out,false,23:20:01,2039.26001
+Me,1,serve,Serve,Slice,66.411018,49,0,0,service_box,deuce,near,0.790437,11.215275,no_mans_land,ad,near,-1.116634,0.078611,2.585884,down the T,Net,false,23:20:04,2042.359985
+Ball Machine,235,none,Serve,Flat,71.508278,0,0,0,service_box,ad,far,0.70954,11.984103,no_mans_land,deuce,far,-0.803642,22.717424,2.682164,down the T,Net,false,23:20:28,2065.629883
+Ball Machine,236,none,Serve,Slice,56.158432,0,0,0,service_box,deuce,near,2.035482,6.437311,no_mans_land,deuce,far,-0.575374,22.813953,2.4868,down the T,In,false,23:20:33,2071.290039
+Me,0,none,Backhand,Topspin,42.563225,51,0,0,no_mans_land,ad,far,3.986656,19.715069,no_mans_land,deuce,near,2.85409,-0.418861,0.987881,down the line,In,false,23:20:35,2072.48999
+Ball Machine,238,none,Serve,Slice,62.482838,0,0,0,service_box,ad,near,-2.878351,6.545358,no_mans_land,ad,far,1.335124,23.579506,2.253815,out wide,In,false,23:20:50,2088.159912
+Me,0,none,Forehand,Flat,53.199223,52,0,0,no_mans_land,deuce,far,-1.949839,20.0285,no_mans_land,ad_alley,near,-4.860322,0.375345,0.909555,down the line,In,false,23:20:51,2089.159912
+Ball Machine,240,none,Backhand,Topspin,54.187111,0,0,0,no_mans_land,ad,near,-2.362183,2.077939,out,deuce,far,-1.117815,25.706591,0.897188,down the line,In,false,23:20:52,2090.389893
+Me,2,none,Forehand,Flat,25.887455,52,0,0,service_box,ad,near,-3.622359,11.713101,out,ad,near,-2.810497,-1.812766,0.784472,cross court,Net,false,23:20:54,2091.72998
+Ball Machine,242,none,Serve,Flat,68.778801,0,0,0,service_box,deuce,near,1.420253,5.704227,no_mans_land,deuce,far,-0.756418,23.871536,2.511065,down the T,In,false,23:21:21,2118.830078
+Me,0,none,Forehand,Topspin,56.161774,53,0,0,out,deuce,far,-1.323302,24.354542,no_mans_land,deuce,near,1.652661,0.362012,1.123338,inside out,Out,false,23:21:22,2119.800049
+Ball Machine,244,none,Forehand,Topspin,36.354961,0,0,0,service_box,deuce,near,2.269219,8.596787,out,deuce,far,-1.623375,25.618334,0.536548,inside out,In,false,23:21:23,2120.909912
+Ball Machine,245,none,Serve,Slice,61.42329,0,0,0,service_box,deuce,far,-1.5668,11.918991,no_mans_land,ad,far,1.342689,22.779791,2.176783,out wide,Net,false,23:21:39,2137.360107
+Ball Machine,246,none,Serve,Slice,51.358852,0,0,0,service_box,ad,near,-2.989874,6.994659,no_mans_land,ad,far,0.987023,23.17816,2.098952,out wide,In,false,23:21:46,2143.72998
+Me,0,none,Backhand,Topspin,53.134373,54,0,0,no_mans_land,deuce,far,-1.083072,19.698353,out,ad_alley,near,-4.131699,-1.070777,1.225062,inside in,In,false,23:21:47,2144.879883
+Ball Machine,248,none,Backhand,Topspin,51.909416,0,0,0,no_mans_land,deuce_alley,near,4.449085,2.31038,no_mans_land,deuce,far,-0.230433,24.845911,1.029571,down the line,Out,false,23:21:48,2146.280029
+Me,2,none,Feed,Flat,19.407076,54,0,0,service_box,ad,far,2.317311,17.513418,no_mans_land,deuce,near,3.699467,3.504773,3.080385,---,In,false,23:21:55,2152.47998
+Ball Machine,250,none,Serve,Flat,66.009613,0,0,0,no_mans_land,deuce,near,1.873227,3.585159,no_mans_land,deuce,far,-0.830047,22.918354,2.414927,down the T,Out,false,23:22:05,2163.300049
+Me,4,none,Forehand,Topspin,44.89325,54,0,0,service_box,deuce,far,-1.346751,15.306522,out,deuce,near,1.987974,-0.992488,1.020027,inside out,In,false,23:22:06,2164.199951
+Ball Machine,252,none,Serve,Slice,57.775417,0,0,0,service_box,deuce,near,2.720721,5.875401,no_mans_land,deuce,far,-0.725002,22.584299,2.718461,out wide,In,false,23:22:13,2170.830078
+Me,6,none,Backhand,Topspin,44.330837,54,0,0,service_box,ad,far,0.570419,16.94772,no_mans_land,deuce,near,3.353864,-0.439652,1.011861,down the line,In,false,23:22:14,2172.030029
+Ball Machine,254,none,Forehand,Topspin,55.017906,0,0,0,no_mans_land,ad_alley,near,-4.4052,0.328659,out,ad,far,0.137914,26.265495,0.886315,down the line,Out,false,23:22:16,2173.629883
+Me,8,none,Forehand,Slice,32.212719,54,0,0,service_box,deuce,far,-1.998521,17.365345,out,ad_alley,near,-4.89457,-2.90212,0.965961,down the line,In,false,23:22:17,2175.179932
+Ball Machine,256,none,Serve,Slice,66.173378,0,0,0,service_box,ad,near,-0.726342,6.288589,no_mans_land,ad,far,1.137767,22.792635,2.501698,down the T,In,false,23:22:37,2195.199951
+Me,0,none,Backhand,Flat,46.966675,55,0,0,no_mans_land,ad_alley,far,5.376853,18.298008,no_mans_land,ad,near,-1.207412,0.053914,1.054091,inside in,Out,false,23:22:38,2196.070068
+Ball Machine,258,none,Serve,Flat,90.066864,0,0,0,no_mans_land,deuce,near,0.7168,4.619782,service_box,deuce,far,0.098937,23.05534,2.016685,down the T,Out,false,23:22:58,2215.629883
+Me,0,none,Forehand,Flat,40.509972,56,0,0,no_mans_land,deuce,far,-0.703696,19.427557,no_mans_land,deuce,near,0.997439,-0.094345,0.996101,inside out,In,false,23:22:58,2216.300049
+Ball Machine,260,none,Forehand,Topspin,59.115726,0,0,0,no_mans_land,ad,near,-3.280699,1.380958,out,deuce,far,-0.904236,25.541342,1.332419,inside in,In,false,23:23:00,2217.830078
+Me,2,none,Forehand,Flat,39.515251,56,0,0,service_box,deuce,far,-1.625493,17.109028,out,ad,near,-3.878122,-1.826366,1.029779,down the line,In,false,23:23:01,2219.100098
+Ball Machine,262,none,Forehand,Topspin,60.990047,0,0,0,no_mans_land,deuce,near,2.764346,2.71767,no_mans_land,deuce,far,-0.62546,23.968599,0.931381,inside out,In,false,23:23:03,2220.870117
+Me,4,none,Feed,Flat,23.382744,56,0,0,service_box,ad,far,1.176301,16.446291,no_mans_land,deuce_alley,near,4.733371,3.723833,1.647204,---,In,false,23:23:08,2225.580078
+Ball Machine,264,none,Serve,Slice,73.446968,0,0,0,service_box,ad,near,-0.775076,6.300533,no_mans_land,ad,far,1.23162,23.511354,2.874108,down the T,In,false,23:23:17,2235
+Me,6,none,Backhand,Slice,39.58036,56,0,0,out,ad,far,1.278678,25.694525,no_mans_land,ad,near,-1.635247,0.332251,0.898494,inside out,Out,false,23:23:18,2235.870117
+Ball Machine,266,none,Serve,Slice,70.302757,0,0,0,service_box,ad,far,1.526303,17.903118,no_mans_land,deuce,far,-0.677324,23.536024,2.519077,out wide,Net,false,23:24:03,2281
+Ball Machine,267,none,Serve,Slice,70.957344,0,0,0,service_box,deuce,near,1.776345,6.303104,out,deuce,far,-0.415512,25.056965,2.510779,down the T,In,false,23:24:09,2286.870117
+Me,0,none,Forehand,Flat,45.89349,57,0,0,no_mans_land,deuce,far,-2.6176,18.818838,no_mans_land,deuce,near,2.482544,-0.025665,1.041408,inside out,In,false,23:24:10,2287.969971
+Ball Machine,269,none,Backhand,Topspin,62.426193,0,0,0,no_mans_land,ad,near,-3.261613,2.355868,out,deuce,far,-4.036154,26.18758,1.047032,down the line,In,false,23:24:12,2289.469971
+Me,2,none,Forehand,Slice,40.742771,57,0,0,no_mans_land,deuce,far,-1.526426,19.103722,out,ad,near,-3.052713,-2.675767,0.725136,down the line,In,false,23:24:13,2290.889893
+Ball Machine,271,none,Backhand,Flat,27.720591,0,0,0,service_box,deuce,near,1.626625,6.36968,no_mans_land,deuce,far,-1.227451,19.974817,0.89467,cross court,In,false,23:24:14,2292.459961
+Me,4,none,Backhand,Flat,33.887001,57,0,0,service_box,ad,far,2.803652,15.37662,service_box,deuce,near,2.434839,5.742898,1.458107,down the line,In,false,23:24:17,2294.610107
+Ball Machine,273,none,Serve,Slice,85.90815,0,0,0,no_mans_land,ad_out,near,-5.691906,3.092145,out,ad,far,0.899877,25.021753,2.537699,out wide,Out,false,23:24:45,2322.969971
+Ball Machine,274,none,Serve,Slice,60.702698,0,0,0,no_mans_land,ad,near,-3.098645,3.408958,no_mans_land,ad,far,1.004551,24.537092,2.60454,out wide,Out,false,23:24:51,2329.23999
+Me,0,none,Feed,Flat,14.996603,58,0,0,service_box,deuce,far,-1.517939,14.696941,no_mans_land,ad,near,-1.37783,5.779452,1.392307,---,In,false,23:24:59,2336.590088
+Me,1,none,Feed,Flat,22.892548,58,0,0,service_box,deuce,far,-1.843558,15.449306,service_box,ad,near,-0.790734,5.581532,1.283809,---,In,false,23:25:04,2341.590088
+Ball Machine,277,none,Serve,Slice,70.152092,0,0,0,service_box,ad,far,1.173749,17.85811,no_mans_land,deuce,far,-0.528689,23.570154,2.568511,out wide,Net,false,23:25:12,2349.709961
+Ball Machine,278,none,Serve,Slice,66.058426,0,0,0,service_box,deuce,near,1.690426,6.282208,no_mans_land,deuce,far,-0.755063,23.669344,2.691306,down the T,In,false,23:25:18,2356.27002
+Me,0,none,Forehand,Topspin,39.247234,59,0,0,service_box,ad,far,2.586379,13.585834,no_mans_land,deuce,near,2.49715,0.221082,1.081182,inside in,In,false,23:25:19,2357.340088
+Ball Machine,280,none,Forehand,Slice,45.120731,0,0,0,no_mans_land,deuce,near,0.956694,2.402789,out,ad,far,2.306197,25.368111,0.433342,down the line,In,false,23:25:21,2358.879883
+Me,2,none,Forehand,Topspin,50.739388,59,0,0,no_mans_land,deuce,far,-2.998936,20.634165,out,deuce,near,0.654516,-0.753231,0.959215,inside out,In,false,23:25:23,2360.47998
+Ball Machine,282,none,Backhand,Slice,34.656425,0,0,0,no_mans_land,ad,near,-0.466779,2.810807,out,deuce,far,-3.314899,25.974913,1.066148,down the line,In,false,23:25:24,2361.810059
+Me,4,none,FH Volley,Flat,22.516716,59,0,0,out,deuce,far,-1.484846,24.126013,no_mans_land,ad,near,-0.466779,2.28556,1.606125,down the line,Out,false,23:25:26,2363.889893
+Ball Machine,284,none,Serve,Slice,66.486465,0,0,0,service_box,deuce,far,-0.890683,17.932035,no_mans_land,ad,far,1.298917,23.907133,2.428144,out wide,Net,false,23:25:50,2388.280029
+Ball Machine,285,none,Serve,Slice,53.590946,0,0,0,service_box,deuce,far,-2.367545,11.926299,no_mans_land,ad,far,1.816512,22.469248,2.669074,out wide,Net,false,23:25:56,2393.909912
+Ball Machine,286,none,Serve,Flat,45.832409,0,0,0,service_box,deuce,near,3.918862,5.59466,no_mans_land,deuce,far,-0.80804,24.172415,2.621152,out wide,In,false,23:26:18,2415.98999
+Me,0,none,Backhand,Topspin,47.554195,60,0,0,no_mans_land,ad,far,2.565737,19.144684,no_mans_land,deuce_alley,near,4.990055,-0.485199,1.031849,down the line,In,false,23:26:20,2417.699951
+Ball Machine,288,none,FH Volley,Flat,22.516716,0,0,0,service_box,deuce,near,0.292473,5.506569,no_mans_land,ad,far,2.565737,20.353472,0.799183,down the line,In,false,23:26:21,2418.800049
+Me,2,none,Forehand,Flat,38.015598,60,0,0,service_box,deuce,far,-1.079883,17.392494,no_mans_land,ad,near,-0.79336,0.04249,0.340513,down the line,In,false,23:26:22,2420.080078
+Ball Machine,290,none,BH Volley,Flat,20.784662,0,0,0,service_box,ad,near,-2.255133,9.519286,service_box,deuce,far,-0.744933,18.412233,0.633687,down the line,In,false,23:26:24,2421.610107
+Ball Machine,291,none,Feed,Flat,23.331181,0,0,0,service_box,deuce,near,0.378008,7.089219,service_box,ad,far,0.905641,15.735218,2.929394,---,In,false,23:26:31,2429.300049
+Me,1,serve,Serve,Slice,67.234428,61,0,0,service_box,deuce,far,-1.012457,17.987478,out,deuce,near,0.787044,-0.54256,2.552725,down the T,In,false,23:26:55,2452.580078
+Ball Machine,293,none,Forehand,Flat,53.259579,0,0,0,no_mans_land,deuce,near,2.820544,1.948216,out,deuce,far,-1.280571,26.386236,1.223977,inside out,In,false,23:26:56,2453.679932
+Me,2,return,Backhand,Flat,46.019745,61,0,0,service_box,deuce,far,-1.391109,17.987478,out,deuce,near,2.757458,-0.530545,1.156764,cross court,In,false,23:26:57,2455.01001
+Me,1,serve,Serve,Slice,82.605728,62,0,0,service_box,ad,far,1.824706,16.489685,out,ad,near,-1.378068,-0.694441,2.606251,down the T,In,false,23:27:22,2480.01001
+Ball Machine,296,none,Forehand,Topspin,59.960514,0,0,0,no_mans_land,deuce,near,0.159832,3.696033,no_mans_land,ad,far,2.749052,23.809099,0.883211,down the line,In,false,23:27:24,2481.820068
+Me,1,serve,Serve,Slice,62.541904,62,0,0,service_box,ad,far,2.397044,15.667134,out,ad,near,-0.993535,-1.293129,2.512702,out wide,In,false,23:27:30,2488.25
+Ball Machine,298,none,Forehand,Flat,41.332172,0,0,0,out,ad_alley,near,-5.048917,-0.338926,out,ad_alley,far,4.712836,25.788776,0.888975,cross court,Out,false,23:27:32,2489.51001
+Me,1,serve,Serve,Flat,72.385132,63,0,0,no_mans_land,deuce,far,-0.253309,19.482353,out,deuce,near,0.953867,-0.557386,2.524851,down the T,Out,false,23:27:54,2512.179932
+Ball Machine,300,none,Forehand,Topspin,37.527714,0,0,0,no_mans_land,deuce_out,near,5.941378,4.191555,no_mans_land,ad,far,0.14814,24.164331,1.262819,down the line,Out,false,23:27:55,2513.149902
+Me,1,serve,Serve,Slice,58.349876,64,0,0,service_box,deuce,far,-3.219184,17.89258,no_mans_land,deuce,near,0.841957,-0.323793,2.543285,out wide,In,false,23:28:03,2520.679932
+Ball Machine,302,none,Backhand,Slice,36.359116,0,0,0,no_mans_land,ad,near,-0.490829,3.883784,no_mans_land,deuce,far,-3.797973,24.0424,1.195233,down the line,In,false,23:28:04,2521.919922
+Me,2,return,Forehand,Topspin,42.658566,64,0,0,service_box,ad,far,3.13998,14.174096,no_mans_land,ad,near,-0.024889,1.115005,1.102263,cross court,In,false,23:28:06,2523.820068
+Ball Machine,304,none,Forehand,Slice,31.171423,0,0,0,no_mans_land,deuce_out,near,5.760438,4.151048,no_mans_land,ad_alley,far,4.931716,20.829088,1.600222,down the line,Out,false,23:28:08,2525.600098
+Me,1,serve,Serve,Kick,58.504929,65,0,0,service_box,ad,far,1.546166,17.88834,no_mans_land,ad,near,-0.928737,0.20281,2.407339,down the T,In,false,23:28:28,2545.98999
+Ball Machine,306,none,Forehand,Topspin,62.669418,0,0,0,out,deuce,near,1.022837,-0.185591,no_mans_land,ad_alley,far,4.98424,24.796333,1.083649,down the line,Out,false,23:28:29,2547.280029
+Me,2,return,Backhand,Flat,32.503941,65,0,0,service_box,ad,far,2.702172,14.881741,no_mans_land,deuce,near,0.426755,-0.035014,0.631417,down the line,In,false,23:28:30,2548.25
+Me,1,serve,Serve,Kick,66.803741,66,0,0,service_box,deuce,far,-2.320267,17.100706,no_mans_land,deuce,near,0.638663,-0.160619,2.64205,out wide,In,false,23:29:46,2624.159912
+Ball Machine,309,none,Backhand,Topspin,46.474617,0,0,0,no_mans_land,ad,near,-2.138985,4.418806,out,deuce,far,-3.660589,25.15382,0.903983,down the line,In,false,23:29:48,2625.620117
+Me,2,return,Forehand,Flat,31.773827,66,0,0,service_box,deuce_alley,far,-4.848664,14.337674,no_mans_land,ad,near,-2.18933,-0.077634,0.565211,down the line,Out,false,23:29:49,2627.459961
+Ball Machine,311,none,Backhand,Flat,34.227871,0,0,0,service_box,ad_alley,near,-5.005365,6.429256,service_box,deuce_alley,far,-4.863542,13.832561,2.637273,down the line,Out,false,23:29:53,2631.360107
+Me,1,serve,Serve,Kick,68.715973,67,0,0,no_mans_land,ad,far,0.834091,19.388287,out,ad,near,-1.386922,-0.530429,2.723716,down the T,Out,false,23:30:05,2642.919922
+Ball Machine,313,none,Backhand,Topspin,46.504204,0,0,0,no_mans_land,deuce,near,0.896942,1.497703,out,ad,far,2.257908,26.388422,1.373017,inside in,In,false,23:30:06,2644.310059
+Me,0,none,Backhand,Topspin,49.768963,68,0,0,no_mans_land,deuce,far,-1.340499,18.438148,out,deuce,near,0.445488,-1.044073,1.010615,cross court,In,false,23:30:08,2645.73999
+Me,1,serve,Serve,Kick,44.525764,68,0,0,service_box,ad,far,1.841368,15.350574,no_mans_land,ad,near,-1.849086,-0.25984,2.602152,down the T,In,false,23:30:15,2652.689941
+Ball Machine,316,none,Forehand,Topspin,56.737896,0,0,0,no_mans_land,ad,near,-3.110965,2.076136,no_mans_land,ad_alley,far,4.459068,24.085373,1.22871,down the line,In,false,23:30:16,2654.219971
+Me,2,return,Forehand,Topspin,54.298622,68,0,0,no_mans_land,deuce,far,-1.741118,21.120005,out,ad,near,-3.394149,-1.372098,0.928305,down the line,In,false,23:30:17,2655.419922
+Ball Machine,318,none,Backhand,Topspin,44.519142,0,0,0,no_mans_land,deuce,near,0.456979,2.360163,out,deuce,far,-1.438452,25.397182,1.00645,cross court,In,false,23:30:19,2656.709961
+Me,3,serve_plus_one,Backhand,Topspin,42.304153,68,0,0,no_mans_land,deuce,far,-1.081908,21.904362,out,deuce,near,0.426354,-1.719522,1.099861,cross court,In,false,23:30:20,2658.320068
+Ball Machine,320,none,Forehand,Topspin,50.582733,0,0,0,no_mans_land,ad,near,-1.484999,2.197512,out,deuce,far,-1.671864,25.726801,1.510667,inside in,In,false,23:30:22,2659.98999
+Me,4,return_plus_one,Forehand,Topspin,52.894512,68,0,0,no_mans_land,ad,far,2.464704,18.497749,out,ad,near,-0.756182,-1.022472,1.175343,cross court,In,false,23:30:23,2661.419922
+Ball Machine,322,none,Forehand,Slice,47.739391,0,0,0,service_box,deuce,near,2.362405,5.672648,out,ad,far,3.241721,25.098719,1.069535,down the line,In,false,23:30:25,2662.719971
+Me,5,in_play,Backhand,Slice,48.076431,68,0,0,service_box,ad,near,-1.068876,11.337486,no_mans_land,deuce,near,2.303029,1.272911,0.511921,down the line,Net,false,23:30:26,2664.159912
+Ball Machine,324,none,Feed,Flat,23.382744,0,0,0,service_box,ad,near,-1.025329,6.765835,no_mans_land,ad,far,0.694515,22.684378,1.564872,---,In,false,23:30:38,2675.709961
+Me,1,serve,Serve,Kick,61.860622,69,0,0,service_box,deuce,far,-3.74226,17.499802,no_mans_land,deuce,near,0.722903,0.047573,2.492887,out wide,In,false,23:30:47,2684.929932
+Ball Machine,326,none,Backhand,Flat,44.647591,0,0,0,service_box,deuce,near,1.875142,6.474352,out,deuce_alley,far,-5.356475,25.654352,0.715208,down the line,In,false,23:30:48,2686.459961
+Me,2,return,Backhand,Slice,46.94614,69,0,0,service_box,deuce,near,2.57413,7.964661,no_mans_land,deuce_alley,near,4.441295,2.585804,0.73785,down the line,Net,false,23:30:50,2688.22998
+Me,1,serve,Serve,Kick,63.956169,70,0,0,service_box,ad,far,3.263155,17.93475,no_mans_land,ad,near,-1.523901,-0.077124,2.636926,out wide,In,false,23:31:10,2707.889893
+Ball Machine,329,none,Forehand,Topspin,60.259151,0,0,0,out,deuce,near,2.970647,-0.445242,out,ad_alley,far,5.402694,25.045519,1.252145,down the line,Out,false,23:31:11,2709.090088
+Me,1,serve,Serve,Kick,70.922356,71,0,0,service_box,deuce,far,-2.876699,17.745342,out,deuce,near,0.538444,-0.55688,2.686023,out wide,In,false,23:31:27,2725.090088
+Ball Machine,331,none,Backhand,Topspin,46.889748,0,0,0,no_mans_land,deuce_alley,near,4.655497,1.769622,out,deuce_alley,far,-4.84967,25.63883,1.045136,cross court,Out,false,23:31:28,2726.310059
+Me,1,serve,Serve,Slice,63.699936,72,0,0,service_box,ad,far,2.981235,17.204813,out,ad,near,-1.696525,-0.758543,2.508817,out wide,In,false,23:31:49,2747.399902
+Ball Machine,333,none,Forehand,Topspin,41.515285,0,0,0,service_box,deuce,near,0.830938,7.993216,out,ad_alley,far,5.197127,25.442919,1.321026,down the line,In,false,23:31:51,2748.699951
+Me,2,return,Backhand,Topspin,54.822197,72,0,0,no_mans_land,deuce,far,-3.378024,19.450005,no_mans_land,ad,near,-0.701083,-0.109805,0.978915,inside in,In,false,23:31:52,2750.360107
+Ball Machine,335,none,Feed,Flat,17.320551,0,0,0,service_box,ad,near,-0.369582,6.022396,out,deuce,far,-2.988733,25.938395,1.000008,---,In,false,23:32:00,2757.709961
+Me,1,serve,Serve,Slice,60.779331,73,0,0,service_box,deuce_alley,far,-4.764182,16.075144,no_mans_land,deuce,near,0.441783,0.097054,2.607948,out wide,Out,false,23:32:08,2766.22998
+Ball Machine,337,none,Backhand,Flat,33.186657,0,0,0,no_mans_land,deuce,near,2.908912,4.40592,no_mans_land,deuce_alley,far,-5.48297,24.551432,0.784681,down the line,In,false,23:32:10,2767.629883
+Me,0,none,Backhand,Topspin,52.499035,74,0,0,no_mans_land,deuce,far,-1.531697,19.743902,no_mans_land,deuce,near,3.898555,0.845421,1.337117,cross court,In,false,23:32:12,2770.26001
+Ball Machine,339,none,Backhand,Flat,53.105091,0,0,0,no_mans_land,ad,near,-2.8998,1.763189,out,deuce,far,-3.399474,26.440832,1.117069,down the line,In,false,23:32:14,2771.699951
+Me,2,none,Forehand,Topspin,50.765163,74,0,0,no_mans_land,deuce,far,-2.956534,20.620773,out,ad,near,-2.784686,-2.430423,0.868377,down the line,In,false,23:32:15,2773.300049
+Ball Machine,341,none,Backhand,Flat,47.288044,0,0,0,no_mans_land,deuce,near,0.098006,2.270773,out,deuce,far,-2.010351,25.961658,1.213749,cross court,In,false,23:32:17,2774.800049
+Me,4,none,Backhand,Flat,42.785728,74,0,0,no_mans_land,ad,far,0.75066,19.660782,out,deuce,near,0.379437,-1.763347,1.25611,down the line,In,false,23:32:18,2776.360107
+Ball Machine,343,none,Forehand,Topspin,58.584457,0,0,0,service_box,deuce,near,2.636343,5.529276,no_mans_land,ad,far,1.004841,24.484705,1.924619,down the line,In,false,23:32:20,2778.129883
+Me,6,none,Backhand,Flat,44.082745,74,0,0,out,deuce,far,-0.269294,24.6299,out,deuce,near,3.496392,-1.306295,0.636283,cross court,Out,false,23:32:22,2779.560059
+Ball Machine,345,none,Forehand,Topspin,39.354256,0,0,0,no_mans_land,ad,near,-2.94767,4.364264,out,ad,far,0.485012,26.143427,0.912566,cross court,In,false,23:32:23,2781.209961
+Me,1,serve,Serve,Kick,56.876831,75,0,0,no_mans_land,ad,far,3.24015,19.327293,no_mans_land,ad,near,-0.850631,-0.07245,2.620754,out wide,Out,false,23:32:35,2793.429932
+Ball Machine,347,none,Forehand,Flat,62.291355,0,0,0,no_mans_land,ad_alley,near,-4.425755,2.856934,out,ad_alley,far,4.388936,24.989332,1.210839,cross court,Out,false,23:32:37,2794.459961
+Me,1,serve,Serve,Kick,53.100719,76,0,0,service_box,ad,far,1.665066,16.900307,no_mans_land,ad,near,-0.536735,0.107944,2.637133,down the T,In,false,23:32:42,2800.429932
+Ball Machine,349,none,Forehand,Topspin,53.30595,0,0,0,no_mans_land,ad,near,-2.223936,0.901875,no_mans_land,ad,far,3.176939,24.023478,1.552346,cross court,In,false,23:32:44,2801.600098
+Me,2,return,Forehand,Flat,43.339695,76,0,0,service_box,deuce,far,-2.098379,17.276709,out,ad,near,-2.329904,-0.949725,0.541206,down the line,In,false,23:32:45,2802.669922
+Ball Machine,351,none,Feed,Flat,22.371218,0,0,0,no_mans_land,ad,near,-0.553292,3.63081,service_box,deuce,far,-1.352023,15.840484,1.345088,---,In,false,23:32:55,2812.620117
+Me,1,serve,Serve,Slice,77.221794,77,0,0,no_mans_land,deuce,far,-0.880273,18.977013,no_mans_land,deuce,near,0.568348,-0.138027,2.581458,down the T,Out,false,23:33:04,2821.570068
+Ball Machine,353,none,Forehand,Topspin,43.753258,0,0,0,no_mans_land,ad,near,-0.391177,2.332988,out,deuce,far,-1.791191,25.28153,1.111134,inside in,In,false,23:33:05,2822.469971
+Me,1,serve,Serve,Kick,52.715847,78,0,0,no_mans_land,deuce,far,-1.526074,18.457861,no_mans_land,deuce,near,0.690149,-0.497002,2.585226,down the T,Out,false,23:33:13,2831.070068
+Ball Machine,355,none,Forehand,Topspin,39.633633,0,0,0,no_mans_land,ad,near,-1.738937,4.702479,out,deuce,far,-2.576468,25.920311,1.514862,inside in,In,false,23:33:14,2832.27002
+Me,1,serve,Serve,Slice,77.349449,79,0,0,service_box,deuce,near,2.057477,10.79608,service_box,ad,near,-1.24493,0.186203,2.536488,out wide,Net,false,23:33:28,2845.800049
+Me,1,serve,Serve,Kick,56.528801,80,0,0,service_box,ad,far,1.63648,15.41935,out,ad,near,-1.028103,-0.778943,2.535548,down the T,In,false,23:33:36,2853.469971
+Ball Machine,358,none,Forehand,Topspin,43.280201,0,0,0,no_mans_land,ad,near,-2.740164,4.236876,no_mans_land,ad,far,3.687142,24.954199,1.396051,cross court,In,false,23:33:37,2854.699951
+Me,2,return,Forehand,Topspin,54.999084,80,0,0,no_mans_land,ad,far,2.013935,18.32865,out,ad_alley,near,-4.279028,-2.035315,0.618615,down the line,In,false,23:33:39,2856.800049
+Ball Machine,360,none,Forehand,Topspin,52.134552,0,0,0,no_mans_land,ad,near,-3.384252,3.767547,no_mans_land,ad,far,3.828119,24.651316,1.399077,cross court,In,false,23:33:40,2858.22998
+Me,3,serve_plus_one,Forehand,Flat,53.189472,80,0,0,no_mans_land,ad_alley,far,4.60292,19.743902,out,ad_alley,near,-4.676911,-1.93331,0.974487,cross court,Out,false,23:33:42,2859.699951
+Me,0,none,Feed,Flat,19.918634,81,0,0,service_box,ad,far,0.630661,17.555828,no_mans_land,deuce_alley,near,4.183059,-0.15353,0.921997,---,In,false,23:33:54,2871.52002
+Ball Machine,363,none,Serve,Flat,62.826874,0,0,0,service_box,deuce,near,2.300331,5.704008,service_box,deuce,far,-0.705316,23.075907,2.68765,down the T,In,false,23:34:04,2882.370117
+Me,2,none,Backhand,Topspin,42.465965,81,0,0,no_mans_land,deuce,far,-1.375223,21.881636,no_mans_land,deuce,near,3.19223,0.906519,1.021354,cross court,In,false,23:34:05,2883.419922
+Ball Machine,365,none,Backhand,Flat,50.975807,0,0,0,no_mans_land,ad,near,-2.174497,2.784669,out,deuce,far,-1.597918,25.397673,1.259326,down the line,In,false,23:34:07,2884.919922
+Me,4,none,Forehand,Topspin,58.55349,81,0,0,service_box,ad,near,-1.412398,11.473402,out,ad,near,-2.529896,-1.248905,1.022552,cross court,Net,false,23:34:08,2886.300049
+Ball Machine,367,none,Serve,Slice,62.362427,0,0,0,service_box,ad,near,-3.688196,7.470052,no_mans_land,ad,far,1.21449,23.319609,2.183042,out wide,In,false,23:34:30,2907.73999
+Me,0,none,Forehand,Slice,28.238775,82,0,0,service_box,deuce,far,-1.354213,13.576923,out,ad_out,near,-5.690667,-1.110408,0.729186,down the line,In,false,23:34:31,2908.919922
+Ball Machine,369,none,Forehand,Topspin,30.990067,0,0,0,service_box,ad,near,-3.144349,8.091304,service_box,ad,far,0.082604,19.072767,0.725542,cross court,In,false,23:34:33,2911.439941
+Me,2,none,Feed,Flat,18.186579,82,0,0,service_box,deuce,far,-3.122793,15.56128,no_mans_land,ad,near,-3.750729,-0.033158,0.739474,---,In,false,23:34:42,2920.120117
+Ball Machine,371,none,Serve,Flat,59.20454,0,0,0,service_box,deuce_alley,near,4.384836,7.442366,no_mans_land,deuce,far,-0.620048,22.358816,2.48361,out wide,Out,false,23:34:53,2931.27002
+Ball Machine,372,none,Serve,Slice,60.181068,0,0,0,service_box,deuce,near,1.661094,7.04113,no_mans_land,deuce,far,-0.913281,23.729828,2.535799,down the T,In,false,23:35:00,2937.51001
+Me,0,none,Backhand,Topspin,43.895752,83,0,0,service_box,deuce,near,1.882555,10.720877,no_mans_land,deuce,near,2.452023,0.508196,0.789936,cross court,Net,false,23:35:01,2938.610107
+Me,0,none,Feed,Flat,23.382744,84,0,0,service_box,deuce,far,-1.451785,18.277966,no_mans_land,ad,near,-1.734808,-0.059602,0.721491,---,In,false,23:35:21,2958.719971
+Ball Machine,375,none,Serve,Slice,62.431282,0,0,0,no_mans_land,ad_alley,near,-4.575851,0.725094,no_mans_land,ad,far,0.763876,23.624725,2.584923,out wide,Out,false,23:35:29,2967.169922
+Me,2,none,Forehand,Topspin,27.466915,84,0,0,service_box,ad,near,-2.525718,10.662395,out,ad_alley,near,-4.575851,-0.66556,-0.018242,down the line,Net,false,23:35:30,2968.120117
+Ball Machine,377,none,Serve,Slice,60.214111,0,0,0,service_box,ad,near,-3.482968,5.996379,no_mans_land,ad,far,0.623057,23.309813,2.5256,out wide,In,false,23:35:36,2974.070068
+Me,0,none,Forehand,Topspin,28.468349,85,0,0,service_box,ad,far,0.875743,16.400244,no_mans_land,ad,near,-4.029866,1.395766,0.837358,cross court,In,false,23:35:37,2975.070068
+Ball Machine,379,none,Forehand,Topspin,59.720097,0,0,0,no_mans_land,ad,near,-3.127177,2.603768,no_mans_land,ad,far,2.211498,22.974047,0.854386,cross court,In,false,23:35:40,2977.469971
+Me,2,none,Forehand,Topspin,41.457298,85,0,0,service_box,deuce,far,-3.691622,17.88834,out,ad,near,-3.701581,-1.419577,0.920815,down the line,In,false,23:35:41,2978.610107
+Ball Machine,381,none,BH Volley,Flat,19.052607,0,0,0,service_box,deuce,far,-0.626344,17.76152,no_mans_land,deuce,far,-3.271636,19.649509,0.152788,cross court,Net,false,23:35:42,2979.919922
+Me,4,none,Feed,Flat,20.129192,85,0,0,service_box,ad,far,0.222697,13.60416,service_box,ad,near,-0.462039,6.458853,0.631773,---,In,false,23:35:46,2984.219971
+Ball Machine,383,none,Serve,Flat,60.356384,0,0,0,service_box,deuce,near,0.100521,5.885217,no_mans_land,deuce,far,-0.878418,22.783472,2.725602,down the T,In,false,23:35:59,2997.179932
+Me,0,none,Forehand,Flat,50.745289,86,0,0,service_box,ad,near,-2.611582,11.635137,no_mans_land,deuce,near,0.066229,0.991517,0.902584,inside in,Net,false,23:36:00,2998.110107
+Ball Machine,385,none,Serve,Slice,65.765419,0,0,0,service_box,deuce,near,2.155904,6.956789,no_mans_land,deuce,far,-0.633321,24.216513,2.620433,down the T,In,false,23:36:32,3030.340088
+Me,0,none,Backhand,Flat,47.004787,87,0,0,service_box,ad,far,2.855633,16.743879,out,deuce_alley,near,4.375483,-1.229305,0.659942,down the line,In,false,23:36:34,3031.73999
+Ball Machine,387,none,Forehand,Slice,44.16729,0,0,0,service_box,ad,far,1.143603,17.709486,no_mans_land,ad,far,2.557853,24.39254,0.686634,cross court,Net,false,23:36:35,3033.379883
+Ball Machine,388,none,Serve,Slice,84.070335,0,0,0,no_mans_land,ad,near,-3.807335,2.516547,no_mans_land,ad,far,0.966523,24.405172,2.530776,out wide,Out,false,23:36:52,3049.649902
+Me,0,none,Forehand,Topspin,64.047508,88,0,0,service_box,ad_alley,near,-4.969089,10.854063,out,ad,near,-3.967884,-2.041123,0.85734,down the line,Net,false,23:36:53,3050.530029
+Ball Machine,390,none,Serve,Slice,65.509758,0,0,0,service_box,ad,near,-3.152708,6.34484,no_mans_land,ad,far,1.154354,24.234751,2.442526,out wide,In,false,23:36:59,3056.709961
+Me,0,none,Forehand,Flat,49.280132,89,0,0,out,ad,far,2.748113,24.29233,no_mans_land,ad_alley,near,-4.271291,0.935944,1.210993,down the line,Out,false,23:37:00,3057.679932
+Ball Machine,392,none,Serve,Slice,70.946541,0,0,0,no_mans_land,deuce,near,1.739357,3.066655,no_mans_land,deuce,far,-1.036378,24.93207,2.698545,down the T,Out,false,23:37:23,3080.610107
+Me,0,none,Forehand,Flat,50.935654,90,0,0,no_mans_land,ad,far,2.989705,18.473482,out,deuce,near,2.250427,-1.914544,1.049657,inside in,In,false,23:37:24,3081.679932
+Ball Machine,394,none,Serve,Flat,68.804634,0,0,0,no_mans_land,deuce,near,2.853963,3.19995,out,deuce,far,-1.158021,23.674616,2.50756,out wide,Out,false,23:37:40,3097.949951
+Ball Machine,396,none,Serve,Slice,82.307205,0,0,0,no_mans_land,ad,near,-0.029954,2.732888,no_mans_land,ad,far,0.988294,24.634939,2.545099,down the T,Out,false,23:38:04,3121.679932
+Me,0,none,Forehand,Slice,39.933979,92,0,0,no_mans_land,ad,far,0.29991,23.330441,out,ad_alley,near,-5.02349,-1.803101,0.996396,down the line,In,false,23:38:05,3122.72998
+Ball Machine,398,none,Serve,Slice,60.621609,0,0,0,service_box,ad,near,-3.196709,6.179985,no_mans_land,ad,far,1.185069,23.547293,2.700898,out wide,In,false,23:38:12,3130.449951
+Me,2,none,Forehand,Flat,47.676388,92,0,0,no_mans_land,ad,far,1.624786,23.733751,no_mans_land,ad_alley,near,-4.672982,0.412488,1.259689,down the line,In,false,23:38:13,3131.449951
+Ball Machine,400,none,Forehand,Topspin,58.481014,0,0,0,service_box,deuce,near,2.5004,6.047267,out,ad,far,2.838244,25.817724,0.939869,down the line,In,false,23:38:15,3132.820068
+Me,4,none,Backhand,Flat,45.574413,92,0,0,no_mans_land,deuce,far,-2.517802,21.692259,no_mans_land,deuce,near,2.569085,0.114642,0.330063,cross court,In,false,23:38:16,3134.120117
+Ball Machine,402,none,Backhand,Topspin,57.706223,0,0,0,no_mans_land,ad,near,-3.389265,2.01339,out,deuce,far,-3.374108,26.456789,0.900201,down the line,In,false,23:38:18,3135.580078
+Me,6,none,Forehand,Slice,37.484222,92,0,0,service_box,deuce,far,-0.321102,17.666328,out,ad,near,-3.806466,-2.49917,0.845919,down the line,In,false,23:38:19,3136.97998
+Ball Machine,404,none,Backhand,Slice,40.037956,0,0,0,service_box,ad_alley,near,-4.129838,5.580546,no_mans_land,deuce,far,-0.11622,20.939516,0.851268,down the line,Out,false,23:38:21,3138.72998
+Me,0,none,Feed,Flat,19.918634,93,0,0,service_box,deuce,far,-2.312081,16.653606,no_mans_land,ad,near,-3.425595,0.790628,0.769664,---,In,false,23:38:43,3160.629883
+Ball Machine,406,none,Serve,Slice,71.025368,0,0,0,service_box,deuce,near,0.61414,6.870685,no_mans_land,deuce,far,0.23669,23.65414,2.299484,down the T,In,false,23:38:54,3172.219971
+Me,2,none,Forehand,Flat,41.924355,93,0,0,no_mans_land,ad,far,0.815432,19.933685,out,deuce,near,0.762199,-1.433044,0.908464,inside in,In,false,23:38:55,3173.379883
+Ball Machine,408,none,Backhand,Flat,53.611881,0,0,0,out,ad,near,-2.318529,-0.530115,out,ad,far,1.426752,25.716413,1.695368,inside out,Out,false,23:38:57,3175.280029
+Me,4,none,Forehand,Flat,41.475487,93,0,0,no_mans_land,ad,far,0.778564,19.491236,out,ad,near,-2.538302,-2.931655,1.114483,cross court,In,false,23:38:59,3176.75
+Ball Machine,410,none,Serve,Slice,67.069481,0,0,0,service_box,deuce,far,-0.800698,17.374197,no_mans_land,ad,far,0.986244,24.074345,2.602547,down the T,Net,false,23:39:07,3185.120117
+Ball Machine,411,none,Serve,Slice,64.056984,0,0,0,service_box,ad,near,-1.780801,7.782591,no_mans_land,ad,far,1.01683,24.578981,2.572614,down the T,In,false,23:39:14,3192.149902
+Me,0,none,Forehand,Flat,50.422668,94,0,0,no_mans_land,ad,far,3.081616,22.476206,no_mans_land,ad,near,-3.073497,1.046906,1.205231,cross court,In,false,23:39:15,3193.320068
+Ball Machine,413,none,Forehand,Topspin,42.206154,0,0,0,no_mans_land,ad,near,-2.677505,3.120388,out,ad,far,3.651546,26.134392,0.888861,cross court,In,false,23:39:17,3194.540039
+Me,2,none,Forehand,Flat,55.007629,94,0,0,no_mans_land,ad,far,2.657529,22.161495,out,ad,near,-3.241011,-0.828481,1.571652,cross court,In,false,23:39:18,3196.449951
+Ball Machine,415,none,Forehand,Topspin,54.076736,0,0,0,no_mans_land,deuce,near,0.790636,1.642756,out,ad,far,3.329335,25.433542,0.542718,down the line,In,false,23:39:20,3197.639893
+Me,4,none,Backhand,Slice,39.212482,94,0,0,service_box,deuce,near,0.850794,9.860188,out,deuce_alley,near,4.706172,-2.418766,0.832555,down the line,Net,false,23:39:21,3199.02002
+Me,0,none,Feed,Flat,23.388765,95,0,0,service_box,deuce,far,-0.596805,18.285322,service_box,deuce,near,0.554589,7.054477,0.757594,---,In,false,23:39:30,3208.340088
+Ball Machine,418,none,Serve,Flat,70.423393,0,0,0,service_box,deuce,near,0.913024,7.515571,no_mans_land,deuce,far,-0.395183,24.101816,2.407617,down the T,In,false,23:39:41,3218.719971
+Me,2,none,Forehand,Flat,46.717419,95,0,0,no_mans_land,ad,far,1.683002,20.903999,out,deuce,near,1.206509,-1.424118,0.999634,inside in,In,false,23:39:42,3219.689941
+Ball Machine,420,none,Backhand,Topspin,39.437199,0,0,0,service_box,ad,near,-0.700254,6.043445,no_mans_land,ad,far,1.870641,24.688631,1.245581,inside out,In,false,23:39:43,3221.040039
+Me,4,none,Forehand,Topspin,52.154331,95,0,0,no_mans_land,ad,far,3.027028,20.555567,no_mans_land,ad,near,-1.074932,0.762931,1.096222,cross court,In,false,23:39:45,3222.889893
+Ball Machine,422,none,Forehand,Topspin,59.273457,0,0,0,no_mans_land,deuce_out,near,5.999717,2.402354,out,ad,far,3.876525,25.357113,1.155428,down the line,Out,false,23:39:46,3224.139893
+Me,6,none,Feed,Flat,22.805595,95,0,0,service_box,ad,far,2.615862,16.464096,service_box,ad,near,-0.186768,7.404957,2.141412,---,In,false,23:39:56,3234.340088
+Ball Machine,424,none,Serve,Slice,68.680946,0,0,0,service_box,ad,near,-0.452491,6.351611,service_box,ad,far,0.550747,23.551985,2.745836,down the T,In,false,23:40:06,3243.659912
+Me,8,none,Forehand,Topspin,33.834114,95,0,0,service_box,deuce_alley,far,-4.825973,17.62254,out,ad_alley,near,-5.049907,-1.629269,0.980564,down the line,Out,false,23:40:07,3244.73999
+Ball Machine,426,none,BH Volley,Flat,21.650688,0,0,0,service_box,deuce,near,0.779362,7.533913,service_box,deuce_alley,far,-4.825973,18.831327,3.466846,down the line,In,false,23:40:09,3246.73999
+Ball Machine,428,none,Serve,Flat,71.829575,0,0,0,service_box,ad,far,1.317217,18.247248,no_mans_land,deuce,far,-0.640075,23.857218,2.546292,out wide,Net,false,23:40:29,3267.459961
+Ball Machine,429,none,Serve,Slice,62.883461,0,0,0,service_box,deuce,near,1.967447,5.701984,no_mans_land,deuce,far,-0.948463,24.056696,2.613242,down the T,In,false,23:40:39,3276.719971
+Me,0,none,Forehand,Flat,52.610596,97,0,0,service_box,deuce,far,-1.229591,17.376593,no_mans_land,deuce,near,2.148637,0.99794,1.224062,inside out,In,false,23:40:40,3277.790039
+Ball Machine,431,none,Backhand,Slice,44.318764,0,0,0,service_box,deuce,near,2.204516,6.16171,out,deuce,far,-2.884572,25.794956,0.520725,cross court,In,false,23:40:41,3279.060059
+Me,2,none,Backhand,Slice,39.800522,97,0,0,no_mans_land,deuce,far,-0.600346,20.330719,no_mans_land,deuce,near,3.965198,2.394129,0.206607,cross court,In,false,23:40:43,3280.719971
+Ball Machine,433,none,Backhand,Slice,40.442043,0,0,0,no_mans_land,deuce,near,0.548534,3.501957,no_mans_land,deuce,far,-1.008855,24.391851,0.640469,cross court,In,false,23:40:44,3282.159912
+Me,4,none,Backhand,Flat,40.884956,97,0,0,service_box,ad,near,-1.239758,11.266313,no_mans_land,deuce,near,0.391651,2.023418,0.981781,down the line,Net,false,23:40:46,3283.919922
+Ball Machine,435,none,Serve,Slice,78.139496,0,0,0,service_box,ad,near,-4.020916,5.684486,service_box,ad,far,0.42821,23.616947,2.554675,out wide,In,false,23:41:05,3303.060059
+Me,0,none,Forehand,Slice,41.121635,98,0,0,service_box,ad,far,0.993035,18.253641,out,ad_alley,near,-4.986871,-2.076964,0.933829,down the line,In,false,23:41:06,3304.040039
+Ball Machine,437,none,Backhand,Flat,65.409035,0,0,0,no_mans_land,deuce,near,0.339189,2.594745,service_box,ad,far,0.761281,17.09428,1.302111,inside in,In,false,23:41:08,3306.060059
+Me,2,none,Backhand,Flat,46.044823,98,0,0,no_mans_land,ad,far,0.749821,21.693947,out,ad,near,-0.032744,-2.650403,1.098314,inside out,In,false,23:41:09,3307.060059
+Ball Machine,439,none,Backhand,Topspin,57.029289,0,0,0,out,deuce,near,2.900152,-0.474336,no_mans_land,ad,far,1.838583,24.616945,2.120149,inside in,Out,false,23:41:11,3308.72998
+Me,4,none,Feed,Flat,19.052607,98,0,0,service_box,ad,far,0.682798,16.906673,no_mans_land,ad,near,-1.836548,0.657442,0.964947,---,In,false,23:41:16,3314.23999
+Ball Machine,441,none,Serve,Flat,75.1791,0,0,0,service_box,ad,far,1.969167,17.241257,no_mans_land,deuce,far,-0.900835,23.095278,2.595313,out wide,Net,false,23:41:26,3323.889893
+Ball Machine,442,none,Serve,Flat,42.226101,0,0,0,service_box,deuce,near,1.303201,7.393167,no_mans_land,deuce,far,-0.970272,24.270138,2.606701,down the T,In,false,23:41:33,3330.939941
+Me,0,none,Forehand,Flat,60.777843,99,0,0,service_box,deuce,far,-0.928159,12.531225,no_mans_land,deuce,near,1.76074,0.897618,1.19031,inside out,In,false,23:41:34,3332.389893
+Ball Machine,444,none,Serve,Slice,72.06517,0,0,0,no_mans_land,ad,near,-3.522386,3.903589,no_mans_land,ad,far,0.750788,22.598959,2.599988,out wide,Out,false,23:41:52,3350.360107
+Me,0,none,Forehand,Topspin,42.455471,100,0,0,service_box,ad_alley,near,-5.059446,11.35594,out,ad_alley,near,-4.286783,-2.807709,0.970901,cross court,Net,false,23:41:53,3351.340088
+Ball Machine,446,none,Serve,Slice,61.958836,0,0,0,no_mans_land,ad,near,-3.906193,4.886913,out,ad,far,1.513511,25.242046,2.596269,out wide,Out,false,23:42:00,3357.629883
+Me,0,none,Forehand,Flat,44.911972,101,0,0,no_mans_land,deuce,far,-0.516349,21.332266,no_mans_land,ad_alley,near,-4.778819,0.629774,1.080259,down the line,In,false,23:42:01,3358.709961
+Ball Machine,448,none,Backhand,Topspin,75.693306,0,0,0,no_mans_land,deuce,near,3.166986,2.798533,service_box,ad,far,1.434099,17.820642,1.319979,inside in,In,false,23:42:02,3360.439941
+Me,1,serve,Serve,Flat,76.20932,102,0,0,service_box,deuce,far,-0.577222,17.960142,no_mans_land,deuce,near,0.700925,0.216776,2.532207,down the T,In,false,23:42:25,3382.899902
+Ball Machine,450,none,Forehand,Topspin,44.363346,0,0,0,no_mans_land,deuce,near,0.404778,4.83629,out,deuce,far,-0.912587,25.55175,1.239015,inside out,In,false,23:42:26,3383.75
+Me,2,return,Forehand,Flat,53.743294,102,0,0,no_mans_land,deuce,far,-3.561045,19.738333,no_mans_land,deuce,near,0.609884,0.854946,0.925044,inside out,In,false,23:42:27,3385.399902
+Ball Machine,452,none,Feed,Flat,25.114799,0,0,0,service_box,deuce,near,1.078929,7.997149,no_mans_land,deuce,far,-3.266339,23.249634,1.390177,---,In,false,23:42:33,3391.449951
+Me,1,serve,Serve,Slice,72.050484,103,0,0,service_box,ad,far,2.847842,17.777378,out,ad,near,-1.427541,-0.666434,2.473647,out wide,In,false,23:42:51,3408.72998
+Ball Machine,454,none,Forehand,Topspin,48.877563,0,0,0,service_box,deuce,near,1.237671,5.70938,no_mans_land,ad_alley,far,4.344516,24.717543,1.165574,down the line,In,false,23:42:52,3409.72998
+Me,2,return,Backhand,Slice,44.249401,103,0,0,service_box,ad,near,-1.974742,11.786385,no_mans_land,ad,near,-0.613567,0.575925,0.414056,inside out,Net,false,23:42:53,3411.449951
+Ball Machine,456,none,Feed,Flat,22.608921,0,0,0,service_box,ad,near,-2.702268,7.413358,service_box,deuce_alley,far,-4.259823,16.319439,2.27441,---,In,false,23:43:03,3421.25
+Me,1,serve,Serve,Slice,57.990662,104,0,0,service_box,deuce,far,-0.091288,17.269297,no_mans_land,deuce,near,0.558164,0.434049,2.500482,down the T,In,false,23:43:14,3432.370117
+Ball Machine,458,none,Forehand,Topspin,40.375809,0,0,0,no_mans_land,deuce,near,1.949332,2.05292,no_mans_land,deuce,far,-0.840696,24.868736,1.049136,inside out,In,false,23:43:15,3433.330078
+Me,1,serve,Serve,Slice,66.035423,104,0,0,service_box,deuce,far,-0.991321,17.872082,no_mans_land,deuce,near,0.960905,-0.308589,2.298271,down the T,In,false,23:43:22,3439.669922
+Ball Machine,460,none,Forehand,Topspin,59.795456,0,0,0,service_box,deuce,near,0.69426,5.844021,no_mans_land,deuce,far,-1.22462,23.381287,1.200649,inside out,In,false,23:43:23,3440.600098
+Me,2,return,Backhand,Topspin,44.589336,104,0,0,service_box,ad,far,2.521902,16.618196,out,deuce,near,1.073613,-0.659549,0.608132,down the line,In,false,23:43:24,3441.75
+Ball Machine,462,none,Feed,Flat,23.382744,0,0,0,service_box,ad,near,-1.36664,7.865448,no_mans_land,ad,far,1.46535,23.403673,1.010172,---,In,false,23:43:39,3456.550049
+Me,1,serve,Serve,Slice,62.624844,105,0,0,service_box,ad,far,2.574048,17.067888,out,ad,near,-1.435054,-0.723574,2.559174,out wide,In,false,23:43:50,3468
+Ball Machine,464,none,Forehand,Topspin,68.626144,0,0,0,no_mans_land,ad,near,-2.157786,1.09172,out,ad_alley,far,4.41558,25.489332,0.999537,down the line,In,false,23:43:51,3469.199951
+Me,2,return,Forehand,Flat,37.915165,105,0,0,service_box,deuce,far,-3.546983,18.193853,out,ad,near,-2.521146,-1.80805,0.627422,down the line,In,false,23:43:52,3470.219971
+Ball Machine,466,none,Backhand,Flat,31.625441,0,0,0,service_box,deuce,near,1.89006,6.765181,out,deuce,far,-2.957477,27.293779,1.52137,cross court,In,false,23:43:54,3472.199951
+Me,3,serve_plus_one,Overhead,Flat,68.023232,105,0,0,no_mans_land,deuce,far,-0.999191,21.533464,no_mans_land,deuce,near,1.719445,0.87534,2.428795,---,In,false,23:43:58,3475.72998
+Ball Machine,468,none,Feed,Flat,24.248772,0,0,0,no_mans_land,deuce,near,0.828221,3.031326,service_box,deuce,far,-1.020997,13.361938,3.42465,---,In,false,23:44:12,3489.75
+Me,1,serve,Serve,Flat,55.280289,106,0,0,service_box,ad,near,-1.439023,11.480831,no_mans_land,deuce,near,0.312131,0.449188,2.378919,down the T,Net,false,23:44:18,3495.669922
+Me,1,serve,Serve,Kick,59.265747,107,0,0,service_box,deuce,far,-1.594924,17.842646,no_mans_land,deuce,near,0.915366,-0.077412,2.570627,down the T,In,false,23:44:27,3504.469971
+Ball Machine,471,none,Backhand,Topspin,44.269032,0,0,0,no_mans_land,ad,near,-1.205124,3.237022,no_mans_land,deuce,far,-2.074682,24.844389,1.387259,down the line,In,false,23:44:28,3505.669922
+Me,2,return,Forehand,Topspin,54.754406,107,0,0,no_mans_land,ad,far,3.039722,22.935907,out,ad,near,-1.327236,-1.703997,1.006706,cross court,In,false,23:44:29,3507.439941
+Ball Machine,473,none,Forehand,Topspin,31.784956,0,0,0,service_box,deuce,near,1.066947,7.555844,out,ad,far,3.537915,26.267578,1.038491,down the line,In,false,23:44:31,3508.75
+Me,1,serve,Serve,Flat,66.154915,108,0,0,service_box,ad,far,0.306667,17.573675,out,ad,near,-1.433196,-0.652383,2.630836,down the T,In,false,23:44:55,3533.439941
+Ball Machine,475,none,Backhand,Flat,40.882027,0,0,0,no_mans_land,ad,near,-0.511526,3.394556,no_mans_land,ad,far,0.9888,24.746702,1.314922,inside out,In,false,23:44:57,3534.5
+Me,2,return,Forehand,Topspin,46.114891,108,0,0,service_box,ad,far,1.675369,17.49152,out,ad,near,-0.686726,-0.721573,1.032543,cross court,In,false,23:44:58,3536.199951
+Ball Machine,477,none,Forehand,Flat,73.102242,0,0,0,no_mans_land,ad,near,-2.526416,4.829889,out,ad,far,2.822137,25.774204,1.187375,cross court,In,false,23:45:00,3537.870117
+Me,3,serve_plus_one,Forehand,Flat,45.39048,108,0,0,no_mans_land,ad,far,1.173263,23.065353,out,ad_alley,near,-4.357892,-1.27327,0.585769,down the line,In,false,23:45:01,3539.070068
+Ball Machine,479,none,Backhand,Topspin,35.316734,0,0,0,no_mans_land,deuce,near,0.101022,4.553646,out,ad,far,1.711487,25.676336,1.162556,inside in,In,false,23:45:03,3540.639893
+Me,4,return_plus_one,Forehand,Topspin,49.735653,108,0,0,no_mans_land,ad,far,1.416668,21.467537,out,ad,near,-0.735464,-0.996785,0.933354,cross court,In,false,23:45:05,3543.199951
+Ball Machine,481,none,Forehand,Topspin,48.545212,0,0,0,no_mans_land,ad,near,-2.926986,4.435905,out,ad,far,2.224126,26.075899,1.672729,cross court,In,false,23:45:07,3544.75
+Me,5,in_play,Forehand,Flat,54.938942,108,0,0,service_box,ad,far,0.806758,17.526602,out,ad_alley,near,-4.344165,-2.361556,0.79948,down the line,In,false,23:45:09,3546.540039
+Ball Machine,483,none,Forehand,Flat,64.380577,0,0,0,out,deuce,near,2.540633,-0.230276,no_mans_land,ad,far,2.480374,23.438999,0.972742,down the line,Out,false,23:45:10,3548.27002
+Me,1,serve,Serve,Flat,79.329346,109,0,0,service_box,deuce_alley,far,-4.280339,12.727033,service_box,deuce,near,0.104072,0.181941,2.09968,out wide,Out,false,23:45:23,3561.27002
+Me,1,serve,Serve,Flat,61.266815,110,0,0,service_box,ad,near,-1.88894,11.833274,no_mans_land,deuce,near,0.403917,0.165796,2.507889,out wide,Net,false,23:45:33,3570.909912
+Ball Machine,487,none,Feed,Flat,20.784662,0,0,0,service_box,ad_alley,near,-5.019352,7.459765,service_box,deuce_alley,far,-4.62624,19.134447,3.198844,---,Out,false,23:45:42,3580.060059
+Me,1,serve,Serve,Flat,82.609428,112,0,0,no_mans_land,ad,far,2.37939,19.126493,out,ad,near,-1.158753,-1.106886,2.601306,down the T,Out,false,23:45:56,3594.439941
+Ball Machine,489,none,Forehand,Topspin,51.070168,0,0,0,service_box,deuce,near,1.041581,5.856718,out,ad_alley,far,4.123852,25.350744,0.780808,down the line,In,false,23:45:57,3595.370117
+Me,0,none,Backhand,Topspin,32.903404,113,0,0,no_mans_land,ad,far,1.429898,20.770557,no_mans_land,deuce,near,0.900762,4.646311,0.52375,down the line,In,false,23:45:58,3596.360107
+Ball Machine,491,none,Forehand,Topspin,35.256023,0,0,0,no_mans_land,deuce_alley,near,4.793172,0.868164,no_mans_land,ad,far,1.786416,24.719578,0.914006,down the line,Out,false,23:46:00,3598.159912
+Me,2,none,Backhand,Topspin,25.990089,113,0,0,service_box,deuce,near,0.499998,5.760313,out,deuce,near,2.817768,-1.714847,2.822356,cross court,Net,false,23:46:03,3601.159912
+Me,1,serve,Serve,Slice,66.164818,114,0,0,service_box,deuce,near,0.425558,11.289026,no_mans_land,deuce,near,0.820778,0.332854,2.547526,down the T,Net,false,23:47:23,3680.47998
+Me,1,serve,Serve,Kick,67.580528,115,0,0,service_box,deuce,far,-0.932231,17.210232,no_mans_land,deuce,near,0.854969,-0.415497,2.681158,down the T,In,false,23:47:31,3688.810059
+Ball Machine,495,none,Forehand,Topspin,53.340958,0,0,0,service_box,ad,near,-2.597915,6.368746,out,deuce,far,-2.085968,25.168329,1.322062,inside in,In,false,23:47:32,3689.949951
+Me,2,return,Forehand,Flat,49.894039,115,0,0,service_box,ad,far,1.237938,16.975874,out,ad,near,-2.801136,-1.081791,0.417833,cross court,In,false,23:47:33,3691.350098
+Ball Machine,497,none,Forehand,Topspin,54.352482,0,0,0,no_mans_land,ad,near,-2.633649,4.058922,out,ad,far,2.115263,25.753057,0.840096,cross court,In,false,23:47:35,3692.810059
+Me,3,serve_plus_one,Forehand,Topspin,59.625381,115,0,0,no_mans_land,ad,far,3.469347,20.080902,out,ad,near,-3.292459,-1.271787,0.912834,cross court,In,false,23:47:36,3694.209961
+Ball Machine,499,none,Forehand,Slice,32.960331,0,0,0,service_box,ad,near,-0.786169,7.654311,out,ad_alley,far,4.730995,25.543829,0.868384,down the line,In,false,23:47:38,3695.580078
+Me,4,return_plus_one,Forehand,Flat,41.991192,115,0,0,service_box,ad,far,2.953674,15.361208,service_box,ad,near,-0.786169,7.129064,2.173507,---,In,false,23:47:39,3697.360107
+Ball Machine,501,none,Feed,Flat,17.320551,0,0,0,no_mans_land,ad,near,-0.636008,4.427532,no_mans_land,ad,far,2.798865,21.490595,1.078601,---,In,false,23:47:52,3710.159912
+Me,1,serve,Serve,Kick,79.168449,116,0,0,no_mans_land,ad_alley,far,4.349212,18.829731,no_mans_land,ad,near,-1.39301,0.012809,2.670901,out wide,Out,false,23:47:59,3716.679932
+Me,1,serve,Serve,Kick,65.421906,117,0,0,service_box,ad,far,2.567639,16.270926,no_mans_land,ad,near,-1.195361,-0.455957,2.651505,out wide,In,false,23:48:06,3723.47998
+Ball Machine,504,none,Forehand,Topspin,64.673164,0,0,0,no_mans_land,ad,near,-3.608686,1.743672,no_mans_land,ad_alley,far,4.709918,24.066439,1.302423,down the line,In,false,23:48:07,3724.550049
+Me,2,return,Forehand,Flat,34.775116,117,0,0,no_mans_land,deuce,far,-2.171169,20.565521,out,ad_alley,near,-4.443341,-1.370345,0.981507,down the line,In,false,23:48:08,3725.709961
+Ball Machine,506,none,Backhand,Flat,71.694786,0,0,0,no_mans_land,deuce,near,2.752129,3.512506,out,deuce,far,-1.586808,25.346453,1.520901,cross court,In,false,23:48:10,3727.879883
+Me,3,serve_plus_one,Backhand,Topspin,42.856483,117,0,0,service_box,ad,far,2.933632,18.16436,out,deuce_alley,near,4.116765,-1.203017,0.603035,down the line,In,false,23:48:11,3729.26001
+Ball Machine,508,none,Forehand,Flat,29.886635,0,0,0,service_box,ad,near,-1.540567,6.404035,no_mans_land,ad,far,2.979145,20.501802,0.480719,cross court,In,false,23:48:13,3730.5
+Ball Machine,509,none,Feed,Flat,22.516716,0,0,0,service_box,ad,near,-3.89573,7.822611,service_box,deuce,far,-2.045836,18.512285,3.586381,---,In,false,23:48:25,3743.159912
+Me,1,serve,Serve,Kick,90.400688,118,0,0,service_box,deuce,far,-1.47576,17.166508,out,deuce,near,0.59658,-0.533556,2.642998,down the T,In,false,23:48:38,3755.620117
+Me,1,serve,Serve,Kick,64.044945,118,0,0,service_box,deuce,far,-3.796156,18.267832,no_mans_land,deuce,near,0.920879,1.175715,2.415492,out wide,In,false,23:48:45,3763.280029
+Ball Machine,512,none,Feed,Flat,24.007389,0,0,0,service_box,ad,near,-2.082334,8.128602,no_mans_land,deuce,far,-1.043628,21.016619,1.330037,---,In,false,23:48:55,3772.570068
+Ball Machine,513,none,Feed,Flat,24.620277,0,0,0,no_mans_land,ad,near,-2.485574,3.941217,no_mans_land,deuce,far,-3.22945,20.572109,2.598807,---,In,false,23:49:03,3780.77002
+Me,1,serve,Serve,Kick,75.519363,119,0,0,no_mans_land,ad,far,2.052423,18.574303,no_mans_land,ad,near,-0.844904,0.055351,2.523321,down the T,Out,false,23:49:12,3789.580078
+Ball Machine,515,none,Forehand,Topspin,58.702679,0,0,0,no_mans_land,ad,near,-3.302981,4.007261,no_mans_land,ad,far,3.838312,24.8034,1.106067,cross court,In,false,23:49:13,3790.570068
+Me,1,serve,Serve,Kick,66.715912,120,0,0,service_box,ad,far,1.921388,16.433758,out,ad,near,-1.389727,-0.742322,2.627973,down the T,In,false,23:49:27,3804.47998
+Ball Machine,517,none,Forehand,Topspin,49.248276,0,0,0,no_mans_land,ad,near,-2.939627,4.778625,no_mans_land,ad_alley,far,4.377473,24.973755,1.159068,down the line,In,false,23:49:28,3805.75
+Me,2,return,Forehand,Flat,50.470406,120,0,0,no_mans_land,ad,far,2.603183,19.358801,out,ad_alley,near,-4.471767,-1.073456,1.08276,down the line,In,false,23:49:29,3807.320068
+Ball Machine,519,none,Forehand,Topspin,54.031082,0,0,0,no_mans_land,deuce,near,3.599218,0.669372,out,ad_alley,far,4.824226,25.332281,0.765965,down the line,In,false,23:49:31,3809.070068
+Me,3,serve_plus_one,Backhand,Flat,36.759163,120,0,0,no_mans_land,deuce,far,-2.756549,23.6695,out,deuce,near,3.734398,-1.900992,0.864046,cross court,In,false,23:49:32,3810.419922
+Ball Machine,521,none,Backhand,Topspin,43.73497,0,0,0,no_mans_land,ad,near,-0.320944,3.23943,out,deuce,far,-3.62352,26.84132,1.175416,down the line,In,false,23:49:36,3813.669922
+Me,4,return_plus_one,Backhand,Flat,27.380987,120,0,0,service_box,ad,near,-2.434873,5.814259,no_mans_land,ad,near,-0.032979,0.636535,1.330204,inside out,Net,false,23:49:37,3815.320068
+Ball Machine,523,none,Backhand,Topspin,27.620117,0,0,0,service_box,ad,near,-1.588934,7.089268,service_box,deuce,far,-1.903615,15.253565,4.706033,down the line,In,false,23:49:40,3818.169922
+Me,1,serve,Serve,Kick,62.122574,121,0,0,service_box,deuce,far,-1.017658,16.994289,no_mans_land,deuce,near,0.735515,-0.08406,2.600451,down the T,In,false,23:50:00,3837.820068
+Ball Machine,525,none,Forehand,Topspin,51.079338,0,0,0,no_mans_land,ad,near,-2.574164,0.260128,out,deuce,far,-1.765037,26.775347,1.361292,inside in,In,false,23:50:01,3839.050049
+Me,2,none,Forehand,Flat,36.255096,121,0,0,service_box,deuce,far,-2.979318,16.685181,out,ad,near,-2.35269,-2.340859,0.77102,down the line,In,false,23:50:02,3840.439941
+Ball Machine,527,none,Backhand,Flat,40.101822,0,0,0,no_mans_land,ad,near,-2.995243,3.024904,out,deuce,far,-4.062344,26.191008,0.828305,down the line,In,false,23:50:05,3843.120117
+Me,1,serve,Serve,Kick,67.364143,121,0,0,service_box,ad,far,1.85982,14.006145,no_mans_land,ad,near,-1.641556,-0.249162,2.60173,out wide,In,false,23:50:14,3852.350098
+Ball Machine,529,none,Forehand,Topspin,48.447128,0,0,0,out,ad,near,-0.050434,-0.967179,no_mans_land,ad,far,4.075935,24.712191,1.207879,cross court,Out,false,23:50:16,3853.570068
+Me,6,none,Feed,Flat,18.186579,121,0,0,service_box,deuce_alley,far,-4.372666,16.957508,out,ad,near,-3.354393,-0.861523,0.599222,---,Out,false,23:50:20,3858.27002
+Me,1,serve,Serve,Kick,78.222664,122,0,0,service_box,deuce,near,2.794352,11.737069,no_mans_land,ad,near,-0.455827,0.454843,2.416251,out wide,Net,false,23:50:36,3874.320068
+Me,0,none,Feed,Flat,24.248772,123,0,0,no_mans_land,ad,far,1.115,19.550369,service_box,deuce,near,2.458315,7.81121,1.678959,---,In,false,23:50:42,3879.969971
+Ball Machine,533,none,Serve,Slice,62.325687,0,0,0,service_box,deuce,near,2.317996,6.035683,no_mans_land,deuce,far,-0.897024,24.175192,2.473746,out wide,In,false,23:50:52,3889.560059
+Me,2,none,Backhand,Slice,36.899212,123,0,0,service_box,deuce,far,-0.469069,17.446301,no_mans_land,deuce,near,2.829288,0.58141,0.928775,cross court,In,false,23:50:53,3890.719971
+Ball Machine,535,none,Backhand,Slice,41.530514,0,0,0,service_box,ad,near,-3.01638,5.786922,no_mans_land,deuce,far,-1.037347,23.565117,0.840343,down the line,In,false,23:50:54,3892.360107
+Me,4,none,Forehand,Slice,38.930191,123,0,0,service_box,deuce,far,-0.148168,17.444809,no_mans_land,ad_alley,near,-4.355689,0.34371,0.331344,down the line,In,false,23:50:56,3893.919922
+Ball Machine,537,none,Forehand,Topspin,55.797493,0,0,0,no_mans_land,ad,near,-1.433268,4.265381,no_mans_land,ad,far,0.85043,24.555449,0.689225,cross court,In,false,23:50:58,3895.590088
+Me,6,none,Forehand,Topspin,54.031162,123,0,0,service_box,ad,far,3.055723,15.91643,no_mans_land,ad,near,-2.058317,-0.054435,0.685375,cross court,In,false,23:50:59,3896.969971
+Ball Machine,539,none,Serve,Slice,51.553276,0,0,0,service_box,ad,near,-2.799434,6.612338,no_mans_land,ad,far,1.169828,22.477049,2.16417,out wide,In,false,23:51:14,3911.659912
+Me,0,none,Forehand,Topspin,47.49485,124,0,0,service_box,ad,far,2.4101,14.789145,no_mans_land,ad_alley,near,-4.247271,0.57133,0.855891,down the line,In,false,23:51:15,3912.689941
+Ball Machine,541,none,Serve,Flat,57.063931,0,0,0,service_box,deuce,near,2.945686,5.537606,no_mans_land,deuce,far,-0.967199,22.800148,2.519052,out wide,In,false,23:51:28,3925.719971
+Me,0,none,Backhand,Topspin,64.380013,125,0,0,service_box,deuce,near,2.7013,10.182107,out,deuce_alley,near,4.136727,-0.684199,0.90529,down the line,Net,false,23:51:29,3926.820068
+Me,0,none,Feed,Flat,6.390189,126,0,0,service_box,ad,far,0.831636,13.337948,service_box,deuce,near,0.943095,11.057397,3.334486,---,In,false,23:51:36,3934.280029
+Ball Machine,544,none,Serve,Slice,56.675266,0,0,0,service_box,ad,near,-0.827997,6.671026,no_mans_land,ad,far,1.018604,23.307215,2.335861,down the T,In,false,23:51:45,3942.830078
+Me,2,none,Backhand,Topspin,52.348213,126,0,0,no_mans_land,ad,far,0.060834,22.360317,no_mans_land,ad,near,-1.406722,-0.031223,1.080912,inside out,In,false,23:51:46,3943.889893
+Ball Machine,546,none,Forehand,Topspin,58.847511,0,0,0,service_box,deuce,near,1.609079,7.877698,out,ad,far,0.964113,25.211412,0.993345,down the line,In,false,23:51:48,3945.689941
+Me,4,none,Backhand,Slice,35.644562,126,0,0,no_mans_land,deuce,far,-0.032839,22.060375,no_mans_land,deuce,near,1.537245,-0.404767,0.454134,cross court,In,false,23:51:49,3946.959961
+Ball Machine,548,none,Forehand,Topspin,55.107029,0,0,0,no_mans_land,deuce,near,3.880692,2.534661,out,deuce,far,-0.11043,26.374842,1.490298,inside out,In,false,23:51:51,3949.22998
+Me,6,none,Feed,Flat,19.918634,126,0,0,service_box,deuce,far,-1.364208,18.156202,no_mans_land,deuce,near,1.756888,0.363592,0.672086,---,In,false,23:52:00,3958.179932
+Ball Machine,550,none,Serve,Flat,63.706116,0,0,0,service_box,deuce,near,2.541331,6.796264,no_mans_land,deuce,far,-0.980589,23.363474,2.511373,out wide,In,false,23:52:09,3967.189941
+Me,8,none,Backhand,Slice,36.862415,126,0,0,no_mans_land,ad,far,0.623578,20.962486,no_mans_land,deuce_alley,near,4.1766,0.388834,0.97265,down the line,In,false,23:52:10,3968.22998
+Ball Machine,552,none,Forehand,Topspin,53.845669,0,0,0,no_mans_land,ad,near,-3.065792,4.256951,out,ad,far,0.633176,25.964664,1.028264,cross court,In,false,23:52:12,3970.189941
+Me,10,none,Forehand,Slice,53.829212,126,0,0,service_box,ad,far,0.408093,17.842646,out,ad_alley,near,-4.679804,-1.209051,0.680391,down the line,In,false,23:52:14,3971.879883
+Ball Machine,554,none,Forehand,Flat,57.938816,0,0,0,no_mans_land,deuce,near,3.147972,4.043123,no_mans_land,ad,far,1.850919,24.429075,0.996141,down the line,In,false,23:52:16,3973.530029
+Me,12,none,Backhand,Slice,50.441006,126,0,0,no_mans_land,deuce,near,2.936877,2.431664,out,deuce_alley,near,4.889675,-2.349703,0.874004,down the line,Net,false,23:52:17,3975.179932
+Ball Machine,556,none,Serve,Slice,60.295063,0,0,0,service_box,ad,near,-1.498844,6.495008,no_mans_land,ad,far,0.897843,22.34849,2.072169,down the T,In,false,23:52:41,3999.129883
+Me,0,none,Backhand,Slice,38.689316,127,0,0,no_mans_land,deuce,far,-1.66518,18.646292,no_mans_land,ad,near,-1.990773,0.020465,1.075358,inside in,In,false,23:52:42,4000.100098
+Ball Machine,558,none,Backhand,Flat,67.367332,0,0,0,no_mans_land,deuce,near,2.028663,2.945636,no_mans_land,deuce,far,-1.378511,24.519756,0.785287,cross court,In,false,23:52:44,4001.800049
+Me,2,none,Backhand,Topspin,50.039314,127,0,0,no_mans_land,ad,far,1.334339,18.771381,out,deuce,near,2.902965,-1.13657,0.718589,down the line,In,false,23:52:45,4002.929932
+Ball Machine,560,none,Forehand,Flat,57.811295,0,0,0,service_box,deuce,near,2.311933,6.282881,out,ad,far,1.045279,25.787066,0.960895,down the line,In,false,23:52:46,4004.330078
+Me,4,none,Backhand,Slice,28.211168,127,0,0,service_box,ad,far,1.926316,15.261692,no_mans_land,deuce,near,2.751735,-0.12517,0.708336,down the line,In,false,23:52:48,4005.629883
+Ball Machine,562,none,Forehand,Slice,32.569382,0,0,0,service_box,ad,near,-2.126101,8.035296,no_mans_land,ad,far,1.963413,20.946409,0.780544,cross court,In,false,23:52:50,4008.080078
+Me,6,none,Forehand,Topspin,31.599453,127,0,0,service_box,deuce,far,-2.11501,16.080648,no_mans_land,ad,near,-2.722965,4.395304,0.256244,down the line,In,false,23:52:52,4010.030029
+Ball Machine,564,none,BH Volley,Flat,19.918634,0,0,0,no_mans_land,deuce,near,0.499998,3.101422,service_box,deuce,far,-2.11501,17.289436,1.157825,cross court,In,false,23:52:53,4010.97998
+Me,8,none,Backhand,Flat,28.263775,127,0,0,service_box,deuce,far,-2.565566,15.817472,no_mans_land,deuce,near,0.480434,0.22857,0.849124,cross court,In,false,23:52:56,4013.929932
+Me,0,none,Feed,Flat,24.442421,128,0,0,service_box,ad,far,0.278641,18.136679,service_box,deuce,near,1.355191,5.41086,1.402874,---,In,false,23:53:35,4052.580078
+Ball Machine,567,none,Serve,Slice,62.587944,0,0,0,service_box,deuce,near,2.282163,6.421394,no_mans_land,deuce,far,-0.900444,23.696575,2.620498,out wide,In,false,23:53:43,4060.899902
+Me,2,none,Forehand,Topspin,41.7034,128,0,0,out,deuce,far,-2.508914,23.814289,out,deuce,near,3.706957,-1.070489,0.554331,inside out,Out,false,23:53:44,4062.379883
+Ball Machine,569,none,Serve,Slice,55.295589,0,0,0,service_box,ad,near,-2.518598,7.50278,out,ad,far,1.295108,25.056681,2.598292,out wide,In,false,23:53:57,4075.030029
+Me,0,none,Forehand,Topspin,53.924656,129,0,0,service_box,ad,far,2.190742,16.109734,out,ad_alley,near,-4.896862,-1.148668,0.762204,down the line,In,false,23:53:59,4076.629883
+Ball Machine,571,none,Forehand,Flat,38.227093,0,0,0,no_mans_land,deuce,near,1.174189,2.61345,no_mans_land,ad_alley,far,4.397005,24.730997,0.813386,down the line,In,false,23:54:00,4078.199951
+Me,2,none,Backhand,Flat,50.422218,129,0,0,service_box,deuce,far,-3.336815,18.019581,no_mans_land,deuce,near,0.444558,0.296919,1.172701,cross court,In,false,23:54:02,4080.030029
+Ball Machine,573,none,Serve,Kick,39.795589,0,0,0,service_box,deuce,near,1.408391,6.300303,no_mans_land,deuce,far,-0.833407,23.875448,2.839489,down the T,In,false,23:54:16,4094.179932
+Me,0,none,Forehand,Flat,48.907593,130,0,0,out,deuce,far,-1.425397,24.113325,out,deuce,near,1.662175,-0.796741,1.127238,inside out,Out,false,23:54:18,4095.77002
+Ball Machine,575,none,Backhand,Flat,36.417835,0,0,0,no_mans_land,deuce,near,1.95585,2.404469,out,deuce,far,-1.567669,25.73208,0.905976,cross court,In,false,23:54:19,4097.100098
+Me,0,none,Forehand,Topspin,54.35643,131,0,0,no_mans_land,ad,far,2.796999,19.51153,out,deuce,near,2.127075,-0.863358,1.518409,---,In,false,23:54:21,4099.299805
+Ball Machine,577,none,Serve,Slice,73.603142,0,0,0,service_box,deuce,far,-2.513444,18.267832,no_mans_land,ad,far,1.11783,24.903601,2.554284,out wide,Net,false,23:54:32,4110.370117
+Ball Machine,578,none,Serve,Slice,60.731312,0,0,0,service_box,ad,near,-3.528002,6.903286,out,ad,far,1.353513,25.110161,2.516265,out wide,In,false,23:54:39,4116.77002
+Me,0,none,Forehand,Flat,53.311871,132,0,0,out,deuce,far,-2.578589,24.028753,no_mans_land,ad_alley,near,-5.174094,0.534575,1.25869,down the line,Out,false,23:54:40,4117.830078
+Ball Machine,580,none,Serve,Slice,62.081547,0,0,0,service_box,deuce,near,3.05387,6.649638,no_mans_land,deuce,far,-1.033883,23.585175,2.678981,out wide,In,false,23:54:58,4136.169922
+Me,0,none,Backhand,Slice,44.03743,133,0,0,service_box,deuce,far,-2.786038,16.179838,out,deuce_alley,near,4.969894,-0.810311,0.870133,down the line,In,false,23:55:00,4137.569824
+Ball Machine,582,none,Backhand,Topspin,57.916634,0,0,0,out,deuce_alley,far,-5.003661,24.420881,no_mans_land,deuce_alley,far,-5.003661,24.19595,0.888013,cross court,Net,false,23:55:01,4139.200195
+Ball Machine,583,none,Serve,Slice,81.856911,0,0,0,no_mans_land,ad_alley,near,-5.277391,1.559477,out,ad,far,0.964049,24.988388,2.498453,out wide,Out,false,23:55:22,4160.370117
+Me,0,none,Forehand,Topspin,70.255623,134,0,0,no_mans_land,ad,far,1.218207,22.436186,out,ad_alley,near,-5.192915,-0.909404,1.162804,down the line,In,false,23:55:24,4161.490234
+Ball Machine,585,none,Serve,Flat,65.099594,0,0,0,service_box,ad,near,-2.124799,7.159333,no_mans_land,ad,far,1.218207,23.644974,2.571294,down the T,In,false,23:55:30,4167.689941
+Me,2,none,Forehand,Flat,42.465946,134,0,0,no_mans_land,deuce,far,-0.490298,20.190712,no_mans_land,ad,near,-3.912947,0.27026,1.34729,down the line,In,false,23:55:31,4168.740234
+Ball Machine,587,none,Backhand,Topspin,50.429142,0,0,0,no_mans_land,deuce,near,4.054067,1.31569,out,ad,far,0.316142,25.189489,1.580806,inside in,In,false,23:55:33,4170.5
+Me,4,none,Backhand,Topspin,34.63887,134,0,0,service_box,ad,far,1.461749,15.963026,out,deuce_alley,near,4.616385,-2.342121,1.373932,down the line,In,false,23:55:34,4172.189941
+Ball Machine,589,none,Overhead,Flat,22.516716,0,0,0,service_box,ad,near,-1.589224,8.117684,service_box,deuce,far,-0.449541,13.483298,1.411223,down the line,In,false,23:55:36,4173.839844
+Me,6,none,Feed,Flat,21.503996,134,0,0,service_box,deuce,far,-0.229545,17.769758,service_box,deuce,near,0.240865,8.329136,0.929264,---,In,false,23:55:45,4183.089844
+Me,7,none,Feed,Flat,19.052607,134,0,0,service_box,deuce,far,-0.535039,16.08025,service_box,ad,near,-0.883553,11.099599,2.716454,---,In,false,23:55:48,4185.990234
+Ball Machine,592,none,Serve,Slice,65.893417,0,0,0,service_box,ad,far,1.789873,17.960142,no_mans_land,deuce,far,-0.717805,23.703501,2.633137,out wide,Net,false,23:55:55,4193.370117
+Ball Machine,593,none,Serve,Slice,63.589207,0,0,0,service_box,deuce,near,2.011006,6.588681,no_mans_land,deuce,far,-0.546267,24.251503,2.651422,down the T,In,false,23:56:02,4199.970215
+Me,0,none,Forehand,Flat,42.459629,135,0,0,no_mans_land,ad,far,1.76631,19.554808,no_mans_land,deuce,near,3.010675,0.531414,1.145018,inside in,In,false,23:56:03,4201.040039
+Ball Machine,595,none,Forehand,Topspin,55.89484,0,0,0,out,deuce,near,0.176685,-0.254353,out,ad,far,1.603523,25.424326,1.595028,down the line,Out,false,23:56:05,4202.589844
+Me,2,none,Feed,Flat,25.114799,135,0,0,no_mans_land,ad,far,2.610228,20.030127,service_box,deuce,near,0.387292,7.771977,0.61897,---,In,false,23:56:16,4213.589844
+Ball Machine,597,none,Serve,Slice,78.48259,0,0,0,no_mans_land,ad,near,-2.10764,3.375768,no_mans_land,ad,far,1.276071,24.00429,2.401148,down the T,Out,false,23:56:25,4223.209961
+Me,4,none,Forehand,Slice,48.452412,135,0,0,no_mans_land,deuce,far,-2.263549,19.76812,out,ad_alley,near,-5.019805,-2.324172,0.919367,down the line,In,false,23:56:26,4224.089844
+Ball Machine,599,none,Serve,Slice,61.180302,0,0,0,service_box,ad,near,-2.000096,7.156773,out,ad,far,1.114132,24.041895,2.53077,down the T,In,false,23:56:33,4230.669922
+Me,6,none,Forehand,Flat,46.674686,135,0,0,no_mans_land,ad,far,1.816193,21.093557,no_mans_land,ad,near,-3.543004,0.625844,1.233567,cross court,In,false,23:56:34,4231.77002
+Ball Machine,601,none,Forehand,Topspin,68.836586,0,0,0,service_box,ad,near,-3.314801,6.159925,out,ad,far,2.356445,26.233297,1.404303,cross court,In,false,23:56:35,4233.290039
+Me,8,none,Feed,Flat,22.516716,135,0,0,service_box,ad,far,0.529237,16.634321,no_mans_land,ad,near,-1.936523,1.29824,0.975277,---,In,false,23:56:45,4243.089844
+Ball Machine,603,none,Serve,Slice,60.233585,0,0,0,service_box,deuce,near,3.116547,5.834332,no_mans_land,deuce,far,-0.467642,22.356764,2.398526,out wide,In,false,23:56:56,4254.009766
+Me,10,none,Backhand,Flat,46.491524,135,0,0,no_mans_land,deuce,far,-2.27426,18.609715,no_mans_land,deuce_alley,near,4.662733,0.0309,1.146287,down the line,In,false,23:56:57,4255.140137
+Ball Machine,605,none,Backhand,Slice,42.154945,0,0,0,no_mans_land,ad,near,-0.58726,3.371541,no_mans_land,deuce,far,-3.874485,24.007668,0.707016,down the line,In,false,23:56:58,4256.410156
+Me,12,none,Forehand,Flat,47.924866,135,0,0,service_box,ad,far,2.856181,17.600666,no_mans_land,ad,near,-0.411873,0.107216,0.84479,cross court,In,false,23:57:00,4257.939941
+Ball Machine,607,none,Forehand,Topspin,65.47168,0,0,0,no_mans_land,deuce,near,3.261851,2.359677,no_mans_land,ad,far,3.887738,24.47497,0.804524,down the line,In,false,23:57:02,4259.589844
+Me,14,none,Backhand,Topspin,49.481182,135,0,0,no_mans_land,ad_alley,far,4.347727,23.488098,out,deuce,near,2.817376,-0.90863,1.112607,down the line,Out,false,23:57:03,4261.310059
+Ball Machine,609,none,Serve,Slice,59.488617,0,0,0,service_box,ad,near,-1.305708,7.468519,no_mans_land,ad,far,1.128458,23.980463,2.516422,down the T,In,false,23:57:21,4279.140137
+Me,0,none,Backhand,Flat,48.689766,136,0,0,no_mans_land,ad,far,1.783952,20.001892,out,ad,near,-2.424994,-1.604397,0.669471,inside out,In,false,23:57:23,4280.540039
+Ball Machine,611,none,Forehand,Topspin,29.360296,0,0,0,service_box,deuce,far,-1.497376,12.177526,out,ad,far,2.391126,25.271677,1.192285,down the line,Net,false,23:57:24,4282.089844
+Ball Machine,612,none,Serve,Slice,65.816978,0,0,0,service_box,deuce,near,2.66008,7.007718,no_mans_land,deuce,far,-0.954876,24.128248,2.634801,out wide,In,false,23:57:46,4303.97998
+Me,0,none,Backhand,Flat,50.473473,137,0,0,service_box,ad,far,2.230844,16.819485,no_mans_land,deuce_alley,near,4.787623,0.29164,1.192909,down the line,In,false,23:57:47,4305.109863
+Ball Machine,614,none,Forehand,Topspin,62.200069,0,0,0,no_mans_land,deuce,near,2.939866,1.686906,no_mans_land,ad,far,1.909471,24.944326,0.798393,down the line,In,false,23:57:48,4306.390137
+Me,2,none,Feed,Flat,20.784662,137,0,0,service_box,ad,far,0.885862,16.332033,no_mans_land,ad,near,-0.760994,1.957703,1.40531,---,In,false,23:57:55,4312.589844
+Ball Machine,616,none,Serve,Slice,64.626778,0,0,0,service_box,ad,near,-2.714857,7.981828,no_mans_land,ad,far,1.006704,24.752676,2.633995,out wide,In,false,23:58:03,4321.439941
+Me,4,none,Forehand,Flat,56.842152,137,0,0,no_mans_land,ad,far,2.160385,18.657204,out,ad_alley,near,-4.97176,-1.480094,1.301802,down the line,In,false,23:58:05,4322.75
+Ball Machine,618,none,Forehand,Topspin,64.492332,0,0,0,no_mans_land,deuce,near,1.295514,2.821485,out,ad_alley,far,4.310245,25.416113,1.121454,down the line,In,false,23:58:06,4324.080078
+Me,6,none,Backhand,Topspin,50.92749,137,0,0,no_mans_land,ad,far,1.288151,20.78289,out,deuce,near,0.489574,-0.98632,1.017937,down the line,In,false,23:58:07,4325.310059
+Ball Machine,620,none,Forehand,Flat,45.07106,0,0,0,service_box,deuce,near,2.035476,5.786922,no_mans_land,ad,far,1.027816,24.692057,1.046321,down the line,In,false,23:58:09,4326.609863
+Me,8,none,Backhand,Slice,35.879883,137,0,0,out,deuce,far,-2.520833,24.088423,no_mans_land,deuce,near,2.018332,1.551831,0.423452,cross court,Out,false,23:58:10,4328.180176
+Ball Machine,622,none,Feed,Flat,23.382744,0,0,0,no_mans_land,deuce,near,1.449981,3.7483,service_box,deuce,far,-0.726371,18.954405,2.63097,---,In,false,23:58:22,4340.200195
+Me,1,serve,Serve,Slice,56.352909,138,0,0,service_box,ad,near,-0.963005,6.653894,no_mans_land,deuce,near,0.518127,0.16835,2.457825,out wide,Net,false,23:58:28,4346.109863
+Me,1,serve,Serve,Flat,58.533867,139,0,0,service_box,deuce,far,-2.009827,17.29657,no_mans_land,deuce,near,0.357036,0.445933,2.126368,down the T,In,false,23:58:34,4351.509766
+Ball Machine,625,none,Forehand,Topspin,41.907692,0,0,0,service_box,deuce,far,-1.381362,12.07171,no_mans_land,deuce,far,-2.496196,23.872013,1.101516,inside out,Net,false,23:58:34,4352.450195
+Ball Machine,626,none,Feed,Flat,18.186579,0,0,0,service_box,ad,near,-2.601846,5.654847,service_box,deuce,far,-2.316813,13.115246,2.150726,---,In,false,23:58:42,4359.600098
+Me,1,serve,Serve,Slice,53.711964,140,0,0,service_box,ad,far,2.281793,18.277966,out,ad,near,-1.240736,-0.85794,2.504719,down the T,In,false,23:58:50,4368.049805
+Ball Machine,628,none,Forehand,Flat,67.039627,0,0,0,service_box,ad,near,-3.828081,7.089219,out,ad_alley,far,4.232116,26.263885,1.26626,down the line,In,false,23:58:52,4369.549805
+Me,1,serve,Serve,Flat,79.321732,141,0,0,no_mans_land,deuce,far,-0.913197,19.079407,out,deuce,near,0.750859,-0.555193,2.52963,down the T,Out,false,23:59:05,4383.279785
+Ball Machine,630,none,Forehand,Flat,61.405842,0,0,0,service_box,ad,far,2.060881,17.087894,no_mans_land,deuce,far,-0.655093,24.728622,1.002663,inside in,Net,false,23:59:06,4384.120117
+Me,1,serve,Serve,Flat,61.076092,142,0,0,service_box,deuce,far,-2.477133,17.561321,no_mans_land,deuce,near,0.353705,0.017053,2.561993,out wide,In,false,23:59:13,4390.950195
+Ball Machine,632,none,Backhand,Slice,34.954136,0,0,0,service_box,ad,near,-0.427578,7.111845,out,deuce,far,-3.822355,24.994547,0.798918,down the line,In,false,23:59:14,4391.97998
+Me,2,return,Forehand,Flat,24.020203,142,0,0,service_box,ad,far,2.866594,13.835911,service_box,ad,near,-0.101899,5.066892,0.686706,cross court,In,false,23:59:16,4393.879883
+Ball Machine,634,none,Forehand,Slice,31.664946,0,0,0,service_box,deuce,near,1.691166,5.885848,no_mans_land,ad,far,3.840486,20.283562,0.591308,down the line,In,false,23:59:18,4396.100098
+Ball Machine,635,none,Backhand,Slice,40.624702,0,0,0,service_box,deuce,near,1.257948,5.542858,no_mans_land,ad,far,1.291773,23.020826,0.869107,inside in,In,false,23:59:35,4412.879883
+Me,0,none,Backhand,Flat,48.959801,143,0,0,no_mans_land,deuce,far,-2.250964,20.400082,no_mans_land,deuce,near,0.980752,2.518071,0.654621,cross court,In,false,23:59:36,4414.450195
+Ball Machine,637,none,Backhand,Topspin,36.181171,0,0,0,service_box,ad,near,-1.391431,7.347064,out,deuce,far,-2.667469,26.298269,0.949698,down the line,In,false,23:59:38,4415.580078
+Me,2,none,Forehand,Flat,51.602013,143,0,0,no_mans_land,ad,far,3.311898,19.403263,no_mans_land,ad,near,-0.740064,2.021103,1.217326,cross court,In,false,23:59:40,4417.549805
+Ball Machine,639,none,Forehand,Flat,37.145184,0,0,0,no_mans_land,ad,near,-0.259448,0.348018,out,ad,far,3.802052,25.702551,1.221826,cross court,In,false,23:59:41,4418.75
+Me,4,none,Forehand,Flat,39.812752,143,0,0,service_box,ad,far,0.821591,16.716015,out,ad,near,-1.364664,-2.08159,1.142016,cross court,In,false,23:59:45,4423.149902
+Ball Machine,641,none,Overhead,Flat,61.452229,0,0,0,service_box,ad,near,-1.691724,6.95193,service_box,ad,far,0.821591,17.924803,2.334124,---,In,false,23:59:46,4424.399902
+Me,6,none,Forehand,Slice,33.983002,143,0,0,no_mans_land,deuce_alley,far,-4.459688,21.320198,out,ad_alley,near,-4.90498,-0.834688,0.597531,down the line,Out,false,23:59:48,4425.720215
+Me,1,serve,Serve,Slice,64.139191,144,0,0,service_box,deuce,far,-1.648404,18.081144,no_mans_land,deuce,near,0.544757,0.47181,2.438436,down the T,In,false,00:00:04,4441.720215
+Ball Machine,644,none,Forehand,Topspin,61.373562,0,0,0,no_mans_land,deuce,near,1.920119,4.524738,out,deuce,far,-1.427596,25.037016,1.073689,inside out,In,false,00:00:05,4442.850098
+Me,2,return,Backhand,Flat,48.597752,144,0,0,no_mans_land,ad,far,1.06682,21.597351,no_mans_land,deuce,near,2.31114,0.320575,0.682276,down the line,In,false,00:00:06,4444.089844
+Ball Machine,646,none,Forehand,Topspin,60.615616,0,0,0,no_mans_land,deuce,near,2.047923,3.339298,out,ad,far,0.99326,25.104532,0.679329,down the line,In,false,00:00:07,4445.399902
+Me,3,serve_plus_one,Backhand,Flat,45.232388,144,0,0,no_mans_land,ad,far,0.433797,20.799318,no_mans_land,deuce,near,2.343491,-0.038731,0.774659,down the line,In,false,00:00:09,4446.649902
+Ball Machine,648,none,Forehand,Topspin,63.281345,0,0,0,no_mans_land,deuce,near,3.341066,0.840023,out,ad,far,0.547222,25.328856,1.182895,down the line,In,false,00:00:10,4448.100098
+Me,1,serve,Serve,Kick,61.177776,145,0,0,service_box,deuce,far,-1.674445,17.584423,no_mans_land,deuce,near,0.431587,-0.086378,2.683989,down the T,In,false,00:01:12,4509.560059
+Ball Machine,650,none,Forehand,Topspin,56.607342,0,0,0,no_mans_land,deuce,near,2.775995,4.112696,out,deuce,far,-2.575222,25.899008,1.438568,inside out,In,false,00:01:13,4510.790039
+Me,2,return,Backhand,Topspin,52.872524,145,0,0,no_mans_land,ad,far,2.590971,21.431362,no_mans_land,deuce,near,3.987149,-0.449794,0.910941,down the line,In,false,00:01:14,4512.089844
+Ball Machine,652,none,Feed,Flat,25.114799,0,0,0,no_mans_land,ad,near,-1.208799,3.751554,out,ad,far,2.894512,25.079645,0.540928,---,In,false,00:01:22,4520.109863
+Me,1,serve,Serve,Slice,68.476967,146,0,0,no_mans_land,ad,far,2.737661,18.93811,no_mans_land,ad,near,-0.683471,0.274402,2.567699,out wide,Out,false,00:01:30,4527.620117
+Ball Machine,654,none,Forehand,Topspin,47.646816,0,0,0,no_mans_land,ad,near,-1.052625,3.625001,out,ad_alley,far,4.222437,25.059835,1.291744,down the line,In,false,00:01:31,4528.490234
+Me,1,serve,Serve,Kick,59.351639,147,0,0,no_mans_land,ad,far,1.68904,18.404022,no_mans_land,ad,near,-1.356411,-0.337596,2.680949,down the T,Out,false,00:01:39,4537.160156
+Ball Machine,656,none,Feed,Flat,23.382744,0,0,0,service_box,ad,near,-0.304897,7.120093,no_mans_land,deuce,far,-0.849415,19.596321,2.619431,---,In,false,00:01:44,4542.310059
+Me,1,serve,Serve,Kick,64.063377,149,0,0,service_box,deuce,far,-2.671531,18.288,no_mans_land,deuce,near,0.560515,-0.089662,2.678798,out wide,In,false,00:02:40,4597.490234
+Ball Machine,659,none,Backhand,Flat,54.677006,0,0,0,no_mans_land,deuce,near,1.435997,5.018044,out,deuce_alley,far,-4.272184,25.877279,1.213933,down the line,In,false,00:02:41,4598.72998
+Me,2,return,Backhand,Topspin,56.62442,149,0,0,no_mans_land,ad,far,1.575615,19.418669,out,deuce,near,2.497931,-0.964845,0.892419,down the line,In,false,00:02:42,4600.029785
+Ball Machine,661,none,Forehand,Topspin,51.718246,0,0,0,no_mans_land,ad,near,-1.792029,0.852556,out,ad,far,1.296024,26.041111,0.87199,cross court,In,false,00:02:43,4601.359863
+Me,3,serve_plus_one,Forehand,Topspin,46.042305,149,0,0,no_mans_land,deuce,far,-2.613089,19.582588,out,ad,near,-1.858606,-1.189696,1.026221,down the line,In,false,00:02:45,4602.72998
+Ball Machine,663,none,Backhand,Topspin,55.804447,0,0,0,no_mans_land,deuce,near,2.349627,1.059727,out,deuce,far,-2.128567,26.307535,1.351668,cross court,In,false,00:02:46,4604.410156
+Me,4,return_plus_one,Backhand,Flat,55.060986,149,0,0,no_mans_land,ad,far,1.254416,19.342533,out,deuce,near,2.72556,-1.976173,0.99434,down the line,In,false,00:02:48,4605.890137
+Ball Machine,665,none,Forehand,Topspin,46.21909,0,0,0,no_mans_land,deuce,near,1.133016,3.847561,out,ad,far,1.097163,25.844709,1.291935,down the line,In,false,00:02:49,4607.22998
+Me,5,in_play,Backhand,Topspin,52.99754,149,0,0,no_mans_land,deuce,far,-2.113532,19.317682,out,deuce,near,0.915846,-1.003456,1.063012,cross court,In,false,00:02:51,4608.830078
+Ball Machine,667,none,Backhand,Flat,49.639439,0,0,0,no_mans_land,ad,near,-2.735506,1.570453,out,deuce,far,-2.941686,25.830339,0.705926,down the line,In,false,00:02:52,4610.060059
+Me,7,in_play,Forehand,Flat,56.79533,149,0,0,no_mans_land,deuce,far,-3.538726,18.443995,out,ad,near,-2.958826,-2.019629,0.926355,down the line,In,false,00:02:54,4611.589844
+Ball Machine,669,none,Feed,Flat,25.114799,0,0,0,service_box,ad,near,-3.70786,5.773529,no_mans_land,deuce,far,-3.317575,22.117563,3.00875,---,In,false,00:03:01,4618.910156
+Me,1,serve,Serve,Slice,70.365112,150,0,0,no_mans_land,ad_alley,far,4.176361,18.377398,no_mans_land,ad,near,-1.077189,-0.419213,2.58187,out wide,Out,false,00:03:11,4628.459961
+Me,1,serve,Serve,Kick,59.897366,151,0,0,service_box,ad,far,2.347507,16.180069,no_mans_land,ad,near,-0.969989,-0.029085,2.585623,out wide,In,false,00:03:18,4635.629883
+Ball Machine,672,none,Forehand,Topspin,58.503334,0,0,0,no_mans_land,ad,near,-2.714394,3.46753,no_mans_land,ad,far,4.094889,23.88957,1.470943,cross court,In,false,00:03:19,4636.72998
+Me,2,return,Forehand,Topspin,53.775105,151,0,0,no_mans_land,ad,far,2.022392,23.723324,out,ad,near,-3.483483,-1.674685,0.909945,cross court,In,false,00:03:20,4637.930176
+Ball Machine,674,none,Forehand,Topspin,36.461395,0,0,0,no_mans_land,ad,near,-3.098205,0.544054,out,ad,far,2.536277,25.481268,1.052215,cross court,In,false,00:03:21,4639.410156
+Me,3,serve_plus_one,Backhand,Topspin,43.391399,151,0,0,no_mans_land,deuce,far,-1.416673,20.179062,out,ad,near,-2.875788,-0.844823,1.84427,inside in,In,false,00:03:24,4641.709961
+Ball Machine,676,none,Backhand,Flat,61.994724,0,0,0,no_mans_land,deuce,near,1.855309,4.363266,out,deuce,far,-0.937316,26.077387,1.064627,cross court,In,false,00:03:26,4643.629883
+Me,4,return_plus_one,Backhand,Flat,48.004196,151,0,0,no_mans_land,ad,far,2.152894,19.677927,out,deuce,near,2.745242,-1.370234,0.801217,down the line,In,false,00:03:27,4644.959961
+Ball Machine,678,none,Forehand,Topspin,49.676205,0,0,0,service_box,ad,near,-3.909608,6.204891,out,ad,far,2.505657,25.830051,1.234133,cross court,In,false,00:03:28,4646.410156
+Me,5,in_play,Forehand,Slice,32.548283,151,0,0,no_mans_land,deuce,far,-2.024921,18.812757,no_mans_land,ad_alley,near,-5.290178,-0.198601,0.606188,down the line,In,false,00:03:30,4648.109863
+Ball Machine,680,none,Backhand,Flat,59.855469,0,0,0,no_mans_land,deuce,near,2.711357,3.582485,no_mans_land,deuce,far,-1.475983,23.403952,1.029497,cross court,In,false,00:03:33,4650.459961
+Ball Machine,681,none,Feed,Flat,25.114799,0,0,0,no_mans_land,deuce,near,1.034754,4.161019,no_mans_land,ad,far,0.411339,22.556028,2.008387,---,In,false,00:03:43,4661.109863
+Me,1,serve,Serve,Kick,68.871971,152,0,0,service_box,deuce,far,-1.936212,17.62047,no_mans_land,deuce,near,0.68009,-0.259014,2.583927,down the T,In,false,00:03:51,4668.799805
+Ball Machine,683,none,Forehand,Topspin,53.672672,0,0,0,no_mans_land,deuce,near,2.663874,1.909519,out,deuce,far,-3.200071,26.151724,0.989159,inside out,In,false,00:03:52,4670
+Me,2,return,Backhand,Topspin,47.633209,152,0,0,no_mans_land,ad,far,2.295655,19.833183,no_mans_land,deuce,near,3.417818,0.194773,1.15664,down the line,In,false,00:03:53,4671.330078
+Ball Machine,685,none,Forehand,Topspin,41.95293,0,0,0,service_box,deuce,near,0.334922,6.799657,out,ad,far,2.164661,25.855856,0.644783,down the line,In,false,00:03:55,4673.029785
+Me,3,serve_plus_one,Backhand,Topspin,33.664436,152,0,0,no_mans_land,deuce,far,-2.500826,21.391733,service_box,deuce,near,0.113224,5.407019,0.874957,cross court,In,false,00:03:56,4674.299805
+Ball Machine,687,none,Backhand,Topspin,36.874859,0,0,0,no_mans_land,ad,near,-2.013861,5.157553,out,deuce,far,-2.536761,26.030275,1.061177,down the line,In,false,00:03:58,4675.930176
+Me,4,return_plus_one,Overhead,Flat,68.351982,152,0,0,service_box,deuce,far,-1.954215,14.992926,no_mans_land,ad,near,-2.013861,4.632306,2.108124,---,In,false,00:03:59,4677.410156
+Ball Machine,689,none,Feed,Flat,21.650688,0,0,0,service_box,ad,near,-0.239755,6.501235,no_mans_land,ad,far,1.214123,21.975004,1.960205,---,In,false,00:04:06,4684.310059
+Me,1,serve,Serve,Kick,72.994499,153,0,0,service_box,ad,far,2.307857,17.034187,out,ad,near,-1.52031,-0.65733,2.641943,out wide,In,false,00:04:14,4692.200195
+Ball Machine,691,none,Forehand,Topspin,50.148376,0,0,0,service_box,ad,near,-1.469988,5.597648,out,ad_alley,far,4.575903,25.168016,1.13477,down the line,In,false,00:04:15,4693.330078
+Me,2,return,Forehand,Flat,66.066116,153,0,0,no_mans_land,deuce,far,-1.405025,19.824999,no_mans_land,ad,near,-2.572516,-0.280599,0.576348,down the line,In,false,00:04:17,4695.069824
+Ball Machine,693,none,Backhand,Topspin,51.931469,0,0,0,no_mans_land,ad,near,-0.296592,4.410468,out,deuce,far,-0.861566,25.962049,0.932734,down the line,In,false,00:04:18,4696.120117
+Me,3,serve_plus_one,Backhand,Slice,27.22768,153,0,0,service_box,ad,near,-2.084347,11.041417,out,ad,near,-0.390222,-0.6324,1.027109,inside out,Net,false,00:04:20,4697.600098
+Me,1,serve,Serve,Kick,67.916153,154,0,0,no_mans_land,deuce,far,-1.423203,20.161917,no_mans_land,deuce,near,0.813241,-0.517409,2.683325,down the T,Out,false,00:04:41,4719.370117
+Ball Machine,696,none,Forehand,Topspin,51.966663,0,0,0,no_mans_land,deuce,near,3.524722,1.157566,no_mans_land,deuce,far,-1.599722,24.814564,1.514703,inside out,In,false,00:04:43,4720.470215
+Me,0,none,Backhand,Slice,32.477726,155,0,0,service_box,deuce,near,3.416903,9.641743,no_mans_land,deuce_alley,near,4.776089,-0.185876,1.217316,down the line,Net,false,00:04:44,4722.120117
+Me,1,serve,Serve,Kick,60.151222,156,0,0,service_box,ad,far,1.923236,17.237867,out,ad,near,-1.569704,-0.802758,2.644098,down the T,In,false,00:05:06,4743.899902
+Ball Machine,699,none,Forehand,Topspin,50.938816,0,0,0,no_mans_land,ad,near,-2.79683,3.221609,out,ad_alley,far,4.260995,25.83037,1.345918,down the line,In,false,00:05:07,4745.200195
+Me,2,return,Forehand,Topspin,52.106377,156,0,0,no_mans_land,ad,far,0.922076,20.426411,out,ad,near,-3.52981,-1.478917,1.150017,cross court,In,false,00:05:09,4746.700195
+Ball Machine,701,none,Forehand,Topspin,53.350441,0,0,0,no_mans_land,ad,near,-2.178145,1.863029,out,ad,far,1.008942,25.389523,1.425218,cross court,In,false,00:05:10,4748.120117
+Me,3,serve_plus_one,Forehand,Topspin,56.401199,156,0,0,no_mans_land,ad,far,3.237752,20.817314,out,ad,near,-2.260539,-1.228824,1.036745,cross court,In,false,00:05:11,4749.430176
+Ball Machine,703,none,Forehand,Topspin,38.346519,0,0,0,no_mans_land,deuce,near,0.916597,2.751175,out,ad,far,4.039709,26.235792,0.899521,down the line,In,false,00:05:13,4750.700195
+Me,4,return_plus_one,Backhand,Flat,53.350769,156,0,0,no_mans_land,ad,far,2.594822,19.603846,no_mans_land,deuce,near,0.37002,-0.264603,1.473889,down the line,In,false,00:05:15,4752.629883
+Ball Machine,705,none,Forehand,Slice,31.009314,0,0,0,service_box,ad,near,-0.39011,7.199375,out,ad,far,3.251308,26.160231,1.223629,cross court,In,false,00:05:16,4753.930176
+Me,5,in_play,Backhand,Flat,31.783764,156,0,0,service_box,deuce,far,-1.629245,15.307813,no_mans_land,ad,near,-1.119496,3.767346,1.47121,inside in,In,false,00:05:18,4756.129883
+Me,9,none,Feed,Flat,20.784662,156,0,0,service_box,deuce,far,-1.643494,17.772247,no_mans_land,deuce,near,2.303937,1.130299,0.647137,---,In,false,00:05:24,4761.720215
+Ball Machine,708,none,Serve,Slice,56.94854,0,0,0,service_box,deuce,near,1.426092,6.785089,no_mans_land,deuce,far,-0.846461,23.444059,2.697441,down the T,In,false,00:05:39,4777.200195
+Me,0,none,Forehand,Topspin,50.693779,157,0,0,no_mans_land,deuce,far,-3.108683,20.587067,out,deuce,near,1.794429,-0.53841,0.977751,inside out,In,false,00:05:40,4778.299805
+Ball Machine,710,none,Backhand,Flat,37.607094,0,0,0,service_box,deuce,near,2.076195,6.545558,out,deuce,far,-3.671885,25.589102,1.038327,cross court,In,false,00:05:42,4779.569824
+Me,2,none,Backhand,Topspin,36.110592,157,0,0,service_box,ad,far,1.7166,17.248966,no_mans_land,deuce,near,2.882547,1.786902,1.158252,down the line,In,false,00:05:44,4781.470215
+Ball Machine,712,none,Forehand,Topspin,55.090561,0,0,0,no_mans_land,deuce,near,3.258224,2.804518,no_mans_land,ad,far,2.226579,24.907907,0.848254,down the line,In,false,00:05:45,4783.419922
+Me,0,none,Feed,Flat,21.650688,158,0,0,service_box,ad,far,0.675841,17.513418,out,deuce,near,3.002177,-0.872685,0.493184,---,In,false,00:06:00,4797.720215
+Ball Machine,714,none,Serve,Slice,62.182079,0,0,0,service_box,ad,near,-2.903895,6.573953,no_mans_land,ad,far,0.67658,23.65414,2.61681,out wide,In,false,00:06:09,4806.669922
+Me,2,none,Forehand,Topspin,47.989101,158,0,0,service_box,ad,near,-3.031409,10.889776,no_mans_land,ad_alley,near,-5.010941,-0.031999,0.85202,down the line,Net,false,00:06:10,4807.740234
+Ball Machine,716,none,Serve,Flat,71.044235,0,0,0,service_box,ad,far,2.379381,18.000872,no_mans_land,deuce,far,-0.581615,23.579506,2.549312,out wide,Net,false,00:06:23,4821.240234
+Ball Machine,717,none,Serve,Slice,59.287472,0,0,0,service_box,deuce,near,1.805608,7.041033,no_mans_land,deuce,far,-0.590078,22.603525,2.579974,down the T,In,false,00:06:29,4826.540039
+Me,0,none,Backhand,Flat,48.448139,159,0,0,out,deuce,far,-2.12565,23.986982,no_mans_land,deuce,near,2.817038,0.999284,1.214093,cross court,Out,false,00:06:30,4827.669922
+Ball Machine,719,none,Serve,Slice,62.322998,0,0,0,service_box,ad,near,-3.056256,6.337806,no_mans_land,ad,far,0.806775,22.439207,2.674066,out wide,In,false,00:06:41,4838.910156
+Me,0,none,Forehand,Topspin,51.093487,160,0,0,out,deuce,far,-2.113413,24.815109,no_mans_land,ad_alley,near,-4.779758,1.051451,0.932332,down the line,Out,false,00:06:42,4839.810059
+Ball Machine,721,none,Serve,Kick,37.991211,0,0,0,service_box,deuce,near,1.567324,5.591284,no_mans_land,deuce,far,-0.884044,22.799105,2.660388,down the T,In,false,00:07:44,4901.830078
+Me,0,none,Forehand,Flat,51.235756,161,0,0,no_mans_land,deuce,far,-1.910616,19.647715,out,deuce,near,1.747193,-0.599604,1.309211,inside out,In,false,00:07:45,4903.339844
+Ball Machine,723,none,Backhand,Flat,51.876011,0,0,0,no_mans_land,deuce,near,1.621955,4.16366,out,deuce,far,-2.541979,25.65864,0.890213,cross court,In,false,00:07:47,4904.680176
+Me,2,none,Backhand,Flat,51.478153,161,0,0,no_mans_land,deuce_alley,far,-4.996016,21.319992,no_mans_land,deuce,near,2.59828,-0.138521,0.978352,down the line,Out,false,00:07:48,4906.180176
+Ball Machine,725,none,Serve,Slice,58.540371,0,0,0,service_box,ad,near,-2.953369,6.626311,out,ad,far,1.125445,23.432503,2.580937,out wide,In,false,00:08:02,4920.379883
+Me,0,none,Forehand,Flat,54.377171,162,0,0,service_box,ad,far,1.41483,17.688105,out,ad_alley,near,-5.024941,-1.605057,0.830002,down the line,In,false,00:08:04,4921.740234
+Ball Machine,727,none,Forehand,Topspin,60.25761,0,0,0,service_box,ad,near,-3.198809,5.862691,out,ad,far,3.582692,25.582726,1.198118,cross court,In,false,00:08:05,4923.22998
+Me,2,none,Forehand,Slice,37.57798,162,0,0,service_box,ad,far,1.582386,16.693493,out,ad_alley,near,-5.084628,-0.637617,0.556714,down the line,In,false,00:08:07,4924.830078
+Ball Machine,729,none,Forehand,Slice,39.354652,0,0,0,no_mans_land,deuce,near,1.861006,2.258855,no_mans_land,ad,far,3.341062,24.346687,0.549894,down the line,In,false,00:08:09,4926.609863
+Me,4,none,Backhand,Flat,50.399101,162,0,0,out,deuce,far,-2.59564,23.994589,no_mans_land,deuce,near,1.853992,0.138228,1.059465,cross court,Out,false,00:08:11,4928.540039
+Ball Machine,731,none,Serve,Flat,40.362152,0,0,0,service_box,deuce,near,2.520938,6.607707,no_mans_land,deuce,far,-1.244771,24.429682,2.52791,out wide,In,false,00:08:25,4942.47998
+Me,0,none,Backhand,Flat,50.911392,163,0,0,no_mans_land,deuce,far,-0.923327,19.275223,out,deuce_alley,near,4.49852,-1.067384,0.722442,down the line,In,false,00:08:26,4944.240234
+Ball Machine,733,none,Backhand,Topspin,61.381657,0,0,0,no_mans_land,ad,near,-3.085998,2.116776,out,deuce,far,-2.062895,25.082993,0.98327,down the line,In,false,00:08:28,4945.72998
+Me,2,none,Forehand,Topspin,45.84507,163,0,0,service_box,deuce,near,3.199493,7.881593,out,ad,near,-3.056856,-1.797735,0.607885,down the line,Net,false,00:08:29,4947.049805
+Ball Machine,736,none,Serve,Flat,61.101021,0,0,0,service_box,deuce,far,-1.958637,12.255538,no_mans_land,ad,far,1.082598,24.915537,2.600137,out wide,Net,false,00:08:54,4971.72998
+Ball Machine,737,none,Serve,Slice,63.487782,0,0,0,service_box,ad,near,-1.565383,7.567331,out,ad,far,1.219857,24.21118,2.54358,down the T,In,false,00:09:00,4978.109863
+Me,0,none,Forehand,Flat,50.352024,165,0,0,no_mans_land,ad,far,1.288059,18.298008,no_mans_land,ad,near,-3.344337,0.102057,0.996013,cross court,In,false,00:09:01,4979.25
+Ball Machine,739,none,Forehand,Flat,48.379963,0,0,0,no_mans_land,deuce,near,1.356736,1.801701,no_mans_land,ad,far,2.019125,24.827929,1.067591,down the line,In,false,00:09:03,4980.549805
+Me,2,none,Backhand,Flat,53.404663,165,0,0,no_mans_land,ad,far,3.174842,19.46636,out,deuce,near,1.279794,-1.890909,1.026217,down the line,In,false,00:09:04,4982.149902
+Ball Machine,741,none,Forehand,Slice,31.901283,0,0,0,service_box,deuce,near,0.559358,7.855349,no_mans_land,ad,far,3.851151,24.601557,0.974293,down the line,In,false,00:09:06,4983.47998
+Me,4,none,Forehand,Slice,22.17911,165,0,0,service_box,ad,far,2.879578,14.030401,service_box,ad,near,-0.196964,6.654375,1.0226,cross court,In,false,00:09:08,4985.629883
+Ball Machine,743,none,Forehand,Topspin,46.909866,0,0,0,service_box,ad,near,-2.171773,7.173504,no_mans_land,ad,far,3.516028,20.785677,0.58832,cross court,In,false,00:09:09,4987.22998
+Me,6,none,Forehand,Flat,24.630896,165,0,0,service_box,deuce,far,-2.72056,17.051548,service_box,ad,near,-2.545562,7.89136,1.077412,down the line,In,false,00:09:10,4988.209961
+Ball Machine,745,none,Serve,Slice,61.14864,0,0,0,service_box,ad,far,1.523162,16.258829,no_mans_land,deuce,far,-0.936759,22.941179,2.517949,out wide,Net,false,00:09:33,5010.919922
+Ball Machine,746,none,Serve,Kick,40.941914,0,0,0,service_box,deuce,near,1.673853,6.960999,no_mans_land,deuce,far,-1.161526,24.386518,2.661933,down the T,In,false,00:09:39,5017.330078
+Me,0,none,Forehand,Flat,51.188301,166,0,0,no_mans_land,deuce,far,-2.43439,20.824291,no_mans_land,deuce,near,2.888913,0.969521,1.242199,inside out,In,false,00:09:41,5018.850098
+Ball Machine,748,none,Backhand,Topspin,42.405296,0,0,0,no_mans_land,ad,near,-0.510778,2.644686,out,deuce,far,-2.637699,25.786772,0.981362,down the line,In,false,00:09:42,5020.080078
+Me,2,none,Forehand,Topspin,53.59454,166,0,0,service_box,deuce,far,-3.19958,18.014088,out,ad,near,-0.487083,-1.848065,1.105707,down the line,In,false,00:09:44,5021.819824
+Ball Machine,750,none,Backhand,Slice,40.757458,0,0,0,no_mans_land,deuce,near,0.788055,3.327608,out,deuce,far,-3.642716,26.049173,0.803215,cross court,In,false,00:09:45,5023.25
+Me,4,none,Forehand,Flat,58.011326,166,0,0,no_mans_land,ad,far,2.286502,19.729454,no_mans_land,deuce,near,1.062363,0.465321,1.073408,inside in,In,false,00:09:47,5025.180176
+Ball Machine,752,none,Forehand,Flat,54.027092,0,0,0,no_mans_land,ad,near,-0.923769,2.695555,out,ad,far,2.439673,26.118704,1.351743,cross court,In,false,00:09:49,5026.549805
+Me,6,none,Forehand,Topspin,50.663883,166,0,0,no_mans_land,ad,far,2.312714,19.226006,out,ad,near,-1.203793,-0.749633,0.96855,cross court,In,false,00:09:50,5027.879883
+Ball Machine,754,none,Forehand,Topspin,57.39938,0,0,0,no_mans_land,ad,near,-0.060834,2.20724,out,ad,far,3.619694,26.259138,1.0433,cross court,In,false,00:09:51,5029.319824
+Me,8,none,Forehand,Topspin,51.227032,166,0,0,no_mans_land,deuce,far,-0.625603,23.600836,out,ad,near,-0.625603,-1.760557,1.049139,down the line,In,false,00:09:53,5030.620117
+Ball Machine,756,none,Backhand,Topspin,64.901443,0,0,0,service_box,deuce,far,-0.949615,12.068103,out,deuce,far,-2.398067,25.739748,1.252152,cross court,Net,false,00:09:54,5032.149902
+Ball Machine,757,none,Serve,Slice,57.431664,0,0,0,service_box,ad,near,-0.754903,6.525331,no_mans_land,ad,far,1.1095,23.38719,2.305524,down the T,In,false,00:10:20,5057.75
+Me,0,none,Backhand,Flat,42.734394,167,0,0,no_mans_land,deuce,far,-1.433818,19.806915,out,ad,near,-1.396467,-1.99781,0.815055,inside in,In,false,00:10:21,5059.049805
+Ball Machine,759,none,Backhand,Flat,58.111237,0,0,0,no_mans_land,ad,near,-2.247333,3.611735,no_mans_land,deuce,far,-1.50156,24.960791,1.371623,down the line,In,false,00:10:23,5060.879883
+Me,2,none,Forehand,Flat,40.339947,167,0,0,no_mans_land,ad,far,1.564825,18.383446,out,ad,near,-2.599573,-2.179561,1.003826,cross court,In,false,00:10:24,5062.180176
+Ball Machine,761,none,Backhand,Topspin,51.94643,0,0,0,no_mans_land,ad,near,-1.379171,1.668509,no_mans_land,ad,far,2.996734,23.29022,1.809139,inside out,In,false,00:10:26,5063.779785
+Me,4,none,Forehand,Slice,47.869183,167,0,0,service_box,deuce,far,-2.616611,17.51664,out,ad,near,-2.279561,-2.209786,0.905574,down the line,In,false,00:10:27,5064.97998
+Ball Machine,763,none,Backhand,Slice,57.444386,0,0,0,service_box,deuce,far,-2.069624,12.184158,no_mans_land,deuce,far,-2.875689,24.553968,0.51578,cross court,Net,false,00:10:29,5066.830078
+Ball Machine,764,none,Serve,Kick,43.852745,0,0,0,service_box,deuce,near,2.039838,6.114439,no_mans_land,deuce,far,-1.107863,24.165722,2.643054,down the T,In,false,00:10:50,5088.240234
+Me,0,none,Forehand,Flat,56.002934,168,0,0,no_mans_land,deuce,far,-1.75033,23.691378,no_mans_land,deuce,near,2.748646,-0.005118,1.18458,inside out,In,false,00:10:52,5089.589844
+Ball Machine,766,none,Backhand,Topspin,58.129463,0,0,0,no_mans_land,deuce,near,3.321749,3.099625,out,deuce,far,-1.491147,26.018484,1.062158,cross court,In,false,00:10:53,5091.040039
+Me,2,none,Backhand,Flat,52.076855,168,0,0,service_box,deuce,far,-1.838873,16.02141,out,deuce_alley,near,4.118542,-1.757294,1.103976,down the line,In,false,00:10:54,5092.419922
+Ball Machine,768,none,Backhand,Slice,27.510134,0,0,0,service_box,deuce,far,-2.102533,17.616249,no_mans_land,deuce,far,-3.811631,24.206476,0.51001,cross court,Net,false,00:10:56,5093.850098
+Ball Machine,769,none,Serve,Slice,62.431396,0,0,0,service_box,ad,near,-1.953776,7.21733,no_mans_land,ad,far,1.121964,24.465668,2.641867,down the T,In,false,00:11:11,5109.149902
+Me,0,none,Forehand,Flat,52.407795,169,0,0,out,ad,far,1.594368,25.975733,no_mans_land,ad,near,-3.541651,0.08974,1.228724,cross court,Out,false,00:11:12,5110.350098
+Ball Machine,771,none,Forehand,Topspin,37.644257,0,0,0,no_mans_land,deuce,near,0.827671,2.182414,out,ad,far,1.950259,25.152189,0.961835,down the line,In,false,00:11:14,5111.640137
+Me,0,none,Forehand,Flat,36.406849,170,0,0,no_mans_land,deuce,far,-1.209746,19.149796,out,deuce,near,0.411998,-0.777197,1.485296,inside out,In,false,00:11:15,5113.450195
+Ball Machine,773,none,Serve,Flat,43.796684,0,0,0,service_box,deuce,near,2.273819,6.702888,no_mans_land,deuce,far,-1.240445,24.02911,2.62828,out wide,In,false,00:11:25,5122.640137
+Me,2,none,Backhand,Slice,50.997906,170,0,0,no_mans_land,deuce,far,-3.366002,22.111252,out,deuce_alley,near,4.344349,-1.186435,0.770435,down the line,In,false,00:11:26,5124.25
+Ball Machine,775,none,Backhand,Topspin,43.792709,0,0,0,service_box,ad,far,0.122033,15.932161,out,deuce,far,-3.902692,26.478876,1.029832,down the line,Net,false,00:11:28,5125.640137
+Ball Machine,776,none,Serve,Slice,60.077511,0,0,0,service_box,ad,near,-1.304909,6.429395,no_mans_land,ad,far,1.092485,24.915371,2.558578,down the T,In,false,00:11:50,5147.620117
+Me,0,none,Forehand,Topspin,43.571846,171,0,0,service_box,deuce,far,-0.071635,16.179838,no_mans_land,ad,near,-2.458881,0.219895,1.175855,down the line,In,false,00:11:51,5148.890137
+Ball Machine,778,none,Backhand,Topspin,62.624111,0,0,0,out,deuce,near,3.112653,-0.124184,out,ad,far,1.143144,25.527899,1.137165,inside in,Out,false,00:11:52,5150.290039
