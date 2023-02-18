@@ -121,10 +121,13 @@ function direction($myshots){
     array_push($insideout, $ss);
    }
  }
+ /*
  $stats = array("nodirection"=>count($nodirection), "downtheline"=>count($downtheline), "crosscourt"=>count($crosscourt));
  array_push($stats, array("down the T"=> count($downtheT)));
  array_push($stats, array("out wide"=> count($outwide)));
  array_push($stats, array("inside out"=> count($insideout)));
+*/
+ $stats = array("nodirection"=>count($nodirection), "downtheline"=>count($downtheline), "crosscourt"=>count($crosscourt),"down the T"=> count($downtheT),"out wide"=> count($outwide),"inside out"=> count($insideout));
  return $stats;
 }
 
