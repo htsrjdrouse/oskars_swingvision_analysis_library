@@ -1,4 +1,4 @@
-<? include('oskars.SwingVision.shot.datamodel.php');?>
+<? include('SwingVision.csv.parser.php');?>
 <?
 $rallies = ralliesdata();
 $shots = shotsdata();
