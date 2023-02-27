@@ -1,5 +1,5 @@
 # oskars_swingvision_analysis_library
-This is a PHP script that number crunches the shot data derived from the SwingVision app
+This is a PHP script that number crunches the shot data derived from the SwingVision app. Here are some techniques that can be used to parse the SwingVision spreadsheet in order to get info. The SwingVision.csv.parser.graph.php and comparison.graph.php goes as far as to show some pie and scatter charts. 
 
 If you export the .xlsx file out of the SwingVision app on your phone, this trick allows you to analyze the data using a webpage. Now you can do some good graphs and take specific snippets from the video (still need to figure that out).
 
